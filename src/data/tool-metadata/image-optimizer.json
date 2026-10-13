@@ -11,9 +11,9 @@
     "fotol-image-generator",
     "gemini-flash-image",
     "image-enlarger",
+    "realistic-image-generator",
     "image-changer-app",
     "photo",
-    "flux-ai-online",
-    "imggen-ai"
+    "flux-ai-online"
   ]
 }

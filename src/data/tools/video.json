@@ -40,6 +40,14 @@
     "slug": "baby-dance"
   },
   {
+    "title": "BGChanger",
+    "body": "AI video background removal and generation.",
+    "tag": "Freemium",
+    "url": "https://bgchanger.video?ref=riseofmachine.com",
+    "date-added": "2026-09-16",
+    "slug": "bgchanger"
+  },
+  {
     "title": "CapCut",
     "body": "Advanced video editing with AI features & effects.",
     "tag": "Freemium",
@@ -128,6 +136,14 @@
     "slug": "deforum"
   },
   {
+    "title": "DoneCut",
+    "body": "AI editor that turns raw footage into finished YouTube videos and Shorts.",
+    "tag": "From $19",
+    "url": "https://donecut.com/?ref=riseofmachine.com",
+    "date-added": "2026-10-10",
+    "slug": "donecut"
+  },
+  {
     "title": "DreamCut",
     "body": "AI video editor and screen recorder.",
     "tag": "Freemium",
@@ -150,6 +166,14 @@
     "url": "https://elai.io/?ref=riseofmachine.com",
     "date-added": "2025-06-06",
     "slug": "elaiio"
+  },
+  {
+    "title": "Faceless Reels AI",
+    "body": "AI-powered faceless short video creator.",
+    "tag": "Freemium",
+    "url": "https://facelessreels-ai.com?ref=riseofmachine.com",
+    "date-added": "2026-09-20",
+    "slug": "faceless-reels-ai"
   },
   {
     "title": "Flask",
@@ -680,6 +704,14 @@
     "slug": "step-video-t2v"
   },
   {
+    "title": "Stivio",
+    "body": "AI video generator from still images.",
+    "tag": "Freemium",
+    "url": "https://stivio.ai?ref=riseofmachine.com",
+    "date-added": "2026-09-17",
+    "slug": "stivio"
+  },
+  {
     "title": "Summarize",
     "body": "Summarize.tech: ai-powered video summaries",
     "tag": "Not available",
@@ -710,6 +742,14 @@
     "url": "https://tailorlabsai.com/?ref=riseofmachine.com",
     "date-added": "2025-07-03",
     "slug": "tailored-labs"
+  },
+  {
+    "title": "Taomate H3",
+    "body": "Browser-based AI video creation tool.",
+    "tag": "Freemium",
+    "url": "https://taomateh3.pro?ref=riseofmachine.com",
+    "date-added": "2026-09-15",
+    "slug": "taomate-h3"
   },
   {
     "title": "Textideo",
@@ -806,6 +846,14 @@
     "url": "https://video2prompt.io/?ref=riseofmachine.com",
     "date-added": "2026-06-20",
     "slug": "video-to-prompt"
+  },
+  {
+    "title": "Video to Video AI",
+    "body": "Prompt-based AI video transformation tool.",
+    "tag": "Freemium",
+    "url": "https://videotovideoai.online?ref=riseofmachine.com",
+    "date-added": "2026-09-19",
+    "slug": "video-to-video-ai"
   },
   {
     "title": "Video Upscaler",
