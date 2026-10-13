@@ -1,7 +1,7 @@
 {
   "art": {
     "title": "Art",
-    "count": 94
+    "count": 97
   },
   "audio": {
     "title": "Audio",
@@ -9,15 +9,15 @@
   },
   "code": {
     "title": "Code",
-    "count": 16
+    "count": 17
   },
   "copywriting": {
     "title": "Copywriting",
-    "count": 68
+    "count": 69
   },
   "design": {
     "title": "Design",
-    "count": 63
+    "count": 62
   },
   "developer": {
     "title": "Developer",
@@ -33,7 +33,7 @@
   },
   "fashion": {
     "title": "Fashion",
-    "count": 10
+    "count": 11
   },
   "gaming": {
     "title": "Gaming",
@@ -41,7 +41,7 @@
   },
   "health": {
     "title": "Health",
-    "count": 8
+    "count": 9
   },
   "llm": {
     "title": "LLMs",
@@ -61,7 +61,7 @@
   },
   "photos": {
     "title": "Photos",
-    "count": 95
+    "count": 100
   },
   "productivity": {
     "title": "Productivity",
@@ -73,7 +73,7 @@
   },
   "research": {
     "title": "Research",
-    "count": 27
+    "count": 29
   },
   "seo": {
     "title": "SEO",
@@ -85,7 +85,7 @@
   },
   "video": {
     "title": "Video",
-    "count": 116
+    "count": 122
   },
   "xtras": {
     "title": "Xtras",

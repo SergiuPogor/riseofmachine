@@ -12,8 +12,8 @@
     "bulkgen-ai",
     "gemini-flash-image",
     "image-enlarger",
+    "realistic-image-generator",
     "image-changer-app",
-    "photo",
-    "flux-ai-online"
+    "photo"
   ]
 }

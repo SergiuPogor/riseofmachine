@@ -125,6 +125,14 @@
           "slug": "comicsmakernet"
         },
         {
+          "title": "CPages",
+          "body": "Printable AI coloring pages from prompts.",
+          "tag": "Freemium",
+          "url": "https://cpages.ai?ref=riseofmachine.com",
+          "date-added": "2026-09-18",
+          "slug": "cpages"
+        },
+        {
           "title": "Craiyon",
           "body": "Transforms text into vivid, diverse artistic images.",
           "tag": "Freemium",
@@ -477,6 +485,14 @@
           "slug": "mediaai-art"
         },
         {
+          "title": "Meigen AI",
+          "body": "Generate and edit images and videos.",
+          "tag": "Freemium",
+          "url": "https://ai-meigen.com?ref=riseofmachine.com",
+          "date-added": "2026-09-21",
+          "slug": "meigen-ai"
+        },
+        {
           "title": "Melies",
           "body": "AI Filmmaking software.",
           "tag": "Private Beta",
@@ -491,6 +507,14 @@
           "url": "https://mirrorize.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-24",
           "slug": "mirrorize"
+        },
+        {
+          "title": "MyColoring.AI",
+          "body": "Coloring pages from text or photos.",
+          "tag": "Freemium",
+          "url": "https://mycoloring.ai?ref=riseofmachine.com",
+          "date-added": "2026-09-15",
+          "slug": "mycoloringai"
         },
         {
           "title": "Nano Banana Pro",
@@ -2051,14 +2075,6 @@
           "url": "https://logogalleria.com/?ref=riseofmachine.com",
           "date-added": "2024-10-23",
           "slug": "logo-galleria"
-        },
-        {
-          "title": "LogoLlama",
-          "body": "Generate a logo for your brand.",
-          "tag": "Freemium",
-          "url": "https://logollama.co/?ref=riseofmachine.com",
-          "date-added": "2025-11-12",
-          "slug": "logollama"
         },
         {
           "title": "Lovspark AI",
@@ -3797,6 +3813,14 @@
           "slug": "bangs-hair"
         },
         {
+          "title": "Color Season AI",
+          "body": "AI seasonal color analysis from a selfie.",
+          "tag": "Freemium",
+          "url": "https://colorseasonai.com?ref=riseofmachine.com",
+          "date-added": "2026-09-18",
+          "slug": "color-season-ai"
+        },
+        {
           "title": "Hairstyle Changer",
           "body": "Visualize new hairstyles with AI.",
           "tag": "Freemium",
@@ -3999,6 +4023,14 @@
           "url": "https://www.noetik.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-28",
           "slug": "noetik"
+        },
+        {
+          "title": "RAADS-R Test Online",
+          "body": "Online AI-assisted autistic trait self-assessment.",
+          "tag": "Free",
+          "url": "https://raads-rtest.online?ref=riseofmachine.com",
+          "date-added": "2026-09-16",
+          "slug": "raads-r-test-online"
         },
         {
           "title": "Rex",
@@ -4904,6 +4936,14 @@
           "slug": "ai-image-combiner"
         },
         {
+          "title": "Anime Generator",
+          "body": "Creates anime images from text prompts.",
+          "tag": "Free",
+          "url": "https://ai-anime.io?ref=riseofmachine.com",
+          "date-added": "2026-09-22",
+          "slug": "anime-generator"
+        },
+        {
           "title": "AnimeGen.ai",
           "body": "Turn selfies into anime-style art.",
           "tag": "Freemium",
@@ -5072,6 +5112,14 @@
           "slug": "dual-shades"
         },
         {
+          "title": "Enhance.Dating",
+          "body": "AI review of dating profiles.",
+          "tag": "Freemium",
+          "url": "https://enhance.dating?ref=riseofmachine.com",
+          "date-added": "2026-09-24",
+          "slug": "enhancedating"
+        },
+        {
           "title": "Erase Bg",
           "body": "Remove background from images.",
           "tag": "From $0/mo",
@@ -5166,6 +5214,14 @@
           "url": "https://fotol.ai/tools/ai-image-generator?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "fotol-image-generator"
+        },
+        {
+          "title": "FreeMaker AI",
+          "body": "Free AI photo editor with unlimited edits.",
+          "tag": "Free",
+          "url": "https://freemaker.net?ref=riseofmachine.com",
+          "date-added": "2026-09-28",
+          "slug": "freemaker-ai"
         },
         {
           "title": "FromImage AI",
@@ -5318,6 +5374,14 @@
           "url": "https://www.imggood.com?ref=riseofmachine.com",
           "date-added": "2025-06-29",
           "slug": "imggood"
+        },
+        {
+          "title": "Interior Design Planner",
+          "body": "Generates interior redesigns from room photos.",
+          "tag": "Free",
+          "url": "https://ai-interior-design.online?ref=riseofmachine.com",
+          "date-added": "2026-09-22",
+          "slug": "interior-design-planner"
         },
         {
           "title": "Lets Enhance",
@@ -5558,6 +5622,14 @@
           "url": "https://randomimagegenerator.info/?ref=riseofmachine.com",
           "date-added": "2025-08-17",
           "slug": "random-image-generator"
+        },
+        {
+          "title": "Realistic Image Generator",
+          "body": "Generates photorealistic images from prompts.",
+          "tag": "Free",
+          "url": "https://realisticaiimagegenerator.online?ref=riseofmachine.com",
+          "date-added": "2026-09-22",
+          "slug": "realistic-image-generator"
         },
         {
           "title": "Remove Background By Picsart",
@@ -7428,6 +7500,14 @@
           "slug": "baby-dance"
         },
         {
+          "title": "BGChanger",
+          "body": "AI video background removal and generation.",
+          "tag": "Freemium",
+          "url": "https://bgchanger.video?ref=riseofmachine.com",
+          "date-added": "2026-09-16",
+          "slug": "bgchanger"
+        },
+        {
           "title": "CapCut",
           "body": "Advanced video editing with AI features & effects.",
           "tag": "Freemium",
@@ -7546,6 +7626,14 @@
           "url": "https://elai.io/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "elaiio"
+        },
+        {
+          "title": "Faceless Reels AI",
+          "body": "AI-powered faceless short video creator.",
+          "tag": "Freemium",
+          "url": "https://facelessreels-ai.com?ref=riseofmachine.com",
+          "date-added": "2026-09-20",
+          "slug": "faceless-reels-ai"
         },
         {
           "title": "Flask",
@@ -8076,6 +8164,14 @@
           "slug": "step-video-t2v"
         },
         {
+          "title": "Stivio",
+          "body": "AI video generator from still images.",
+          "tag": "Freemium",
+          "url": "https://stivio.ai?ref=riseofmachine.com",
+          "date-added": "2026-09-17",
+          "slug": "stivio"
+        },
+        {
           "title": "Summarize",
           "body": "Summarize.tech: ai-powered video summaries",
           "tag": "Not available",
@@ -8106,6 +8202,14 @@
           "url": "https://tailorlabsai.com/?ref=riseofmachine.com",
           "date-added": "2025-07-03",
           "slug": "tailored-labs"
+        },
+        {
+          "title": "Taomate H3",
+          "body": "Browser-based AI video creation tool.",
+          "tag": "Freemium",
+          "url": "https://taomateh3.pro?ref=riseofmachine.com",
+          "date-added": "2026-09-15",
+          "slug": "taomate-h3"
         },
         {
           "title": "Textideo",
@@ -8202,6 +8306,14 @@
           "url": "https://video2prompt.io/?ref=riseofmachine.com",
           "date-added": "2026-06-20",
           "slug": "video-to-prompt"
+        },
+        {
+          "title": "Video to Video AI",
+          "body": "Prompt-based AI video transformation tool.",
+          "tag": "Freemium",
+          "url": "https://videotovideoai.online?ref=riseofmachine.com",
+          "date-added": "2026-09-19",
+          "slug": "video-to-video-ai"
         },
         {
           "title": "Video Upscaler",

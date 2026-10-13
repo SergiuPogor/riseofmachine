@@ -44,6 +44,9 @@
   "comicsmakernet": [
     "art"
   ],
+  "cpages": [
+    "art"
+  ],
   "craiyon": [
     "art"
   ],
@@ -176,10 +179,16 @@
   "mediaai-art": [
     "art"
   ],
+  "meigen-ai": [
+    "art"
+  ],
   "melies": [
     "art"
   ],
   "mirrorize": [
+    "art"
+  ],
+  "mycoloringai": [
     "art"
   ],
   "nano-banana-pro": [
@@ -464,6 +473,9 @@
   "melty": [
     "code"
   ],
+  "orbi": [
+    "code"
+  ],
   "q-developer": [
     "code"
   ],
@@ -549,6 +561,9 @@
     "copywriting"
   ],
   "hypotenuse": [
+    "copywriting"
+  ],
+  "imagineyourbook": [
     "copywriting"
   ],
   "jasper": [
@@ -750,9 +765,6 @@
     "design"
   ],
   "logo-galleria": [
-    "design"
-  ],
-  "logollama": [
     "design"
   ],
   "lovspark-ai": [
@@ -1397,6 +1409,9 @@
   "bangs-hair": [
     "fashion"
   ],
+  "color-season-ai": [
+    "fashion"
+  ],
   "hairstyle-changer": [
     "fashion"
   ],
@@ -1467,6 +1482,9 @@
     "health"
   ],
   "noetik": [
+    "health"
+  ],
+  "raads-r-test-online": [
     "health"
   ],
   "rex": [
@@ -1796,6 +1814,9 @@
   "ai-image-combiner": [
     "photos"
   ],
+  "anime-generator": [
+    "photos"
+  ],
   "animegenai": [
     "photos"
   ],
@@ -1859,6 +1880,9 @@
   "dual-shades": [
     "photos"
   ],
+  "enhancedating": [
+    "photos"
+  ],
   "erase-bg": [
     "photos"
   ],
@@ -1893,6 +1917,9 @@
     "photos"
   ],
   "fotol-image-generator": [
+    "photos"
+  ],
+  "freemaker-ai": [
     "photos"
   ],
   "fromimage-ai": [
@@ -1950,6 +1977,9 @@
     "photos"
   ],
   "imggood": [
+    "photos"
+  ],
+  "interior-design-planner": [
     "photos"
   ],
   "lets-enhance": [
@@ -2040,6 +2070,9 @@
     "photos"
   ],
   "random-image-generator": [
+    "photos"
+  ],
+  "realistic-image-generator": [
     "photos"
   ],
   "remove-background-by-picsart": [
@@ -2483,6 +2516,9 @@
   "alphaxiv": [
     "research"
   ],
+  "arcmira": [
+    "research"
+  ],
   "biznest": [
     "research"
   ],
@@ -2499,6 +2535,9 @@
     "research"
   ],
   "domain-name-generator": [
+    "research"
+  ],
+  "equibles": [
     "research"
   ],
   "gaabstract": [
@@ -2723,6 +2762,9 @@
   "baby-dance": [
     "video"
   ],
+  "bgchanger": [
+    "video"
+  ],
   "capcut": [
     "video"
   ],
@@ -2756,6 +2798,9 @@
   "deforum": [
     "video"
   ],
+  "donecut": [
+    "video"
+  ],
   "dreamcut": [
     "video"
   ],
@@ -2763,6 +2808,9 @@
     "video"
   ],
   "elaiio": [
+    "video"
+  ],
+  "faceless-reels-ai": [
     "video"
   ],
   "flask": [
@@ -2963,6 +3011,9 @@
   "step-video-t2v": [
     "video"
   ],
+  "stivio": [
+    "video"
+  ],
   "summarize": [
     "video"
   ],
@@ -2973,6 +3024,9 @@
     "video"
   ],
   "tailored-labs": [
+    "video"
+  ],
+  "taomate-h3": [
     "video"
   ],
   "textideo": [
@@ -3009,6 +3063,9 @@
     "video"
   ],
   "video-to-prompt": [
+    "video"
+  ],
+  "video-to-video-ai": [
     "video"
   ],
   "video-upscaler": [

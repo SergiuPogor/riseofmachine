@@ -120,6 +120,14 @@
     "slug": "comicsmakernet"
   },
   {
+    "title": "CPages",
+    "body": "Printable AI coloring pages from prompts.",
+    "tag": "Freemium",
+    "url": "https://cpages.ai?ref=riseofmachine.com",
+    "date-added": "2026-09-18",
+    "slug": "cpages"
+  },
+  {
     "title": "Craiyon",
     "body": "Transforms text into vivid, diverse artistic images.",
     "tag": "Freemium",
@@ -472,6 +480,14 @@
     "slug": "mediaai-art"
   },
   {
+    "title": "Meigen AI",
+    "body": "Generate and edit images and videos.",
+    "tag": "Freemium",
+    "url": "https://ai-meigen.com?ref=riseofmachine.com",
+    "date-added": "2026-09-21",
+    "slug": "meigen-ai"
+  },
+  {
     "title": "Melies",
     "body": "AI Filmmaking software.",
     "tag": "Private Beta",
@@ -486,6 +502,14 @@
     "url": "https://mirrorize.ai/?ref=riseofmachine.com",
     "date-added": "2023-12-24",
     "slug": "mirrorize"
+  },
+  {
+    "title": "MyColoring.AI",
+    "body": "Coloring pages from text or photos.",
+    "tag": "Freemium",
+    "url": "https://mycoloring.ai?ref=riseofmachine.com",
+    "date-added": "2026-09-15",
+    "slug": "mycoloringai"
   },
   {
     "title": "Nano Banana Pro",
