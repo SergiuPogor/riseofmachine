@@ -37,14 +37,6 @@
           "slug": "banana-ai-1"
         },
         {
-          "title": "Banana AI Art",
-          "body": "AI Image generator.",
-          "tag": "Not available",
-          "url": "https://banana-ai.art/?ref=riseofmachine.com",
-          "date-added": "2025-11-03",
-          "slug": "banana-ai-art"
-        },
-        {
           "title": "Banana Pro",
           "body": "Professional text-to-image creation model.",
           "tag": "Freemium",
@@ -447,7 +439,7 @@
         {
           "title": "Line Drawing Converter",
           "body": "Converts photos into line drawings.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://linedrawingconverter.com/?ref=riseofmachine.com",
           "date-added": "2026-08-04",
           "slug": "line-drawing-converter"
@@ -551,7 +543,7 @@
         {
           "title": "Nero AI",
           "body": "AI picture upscale, AI repair scratches.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://ai.nero.com?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "nero-ai"
@@ -623,7 +615,7 @@
         {
           "title": "Prisma",
           "body": "Transform photos into art with AI quickly.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://prisma-ai.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "prisma"
@@ -655,7 +647,7 @@
         {
           "title": "Seede AI",
           "body": "Helps you create a poster in 1 min",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://seede.ai?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "seede-ai"
@@ -1013,7 +1005,7 @@
         {
           "title": "Phone App",
           "body": "AI-powered phone call app with live translation.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://aiphone.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "phone-app"
@@ -1369,7 +1361,7 @@
         {
           "title": "Capitol",
           "body": "AI content creation: story, design, research.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://capitol.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "capitol"
@@ -1569,7 +1561,7 @@
         {
           "title": "Lxi.Ai",
           "body": "Writing.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://lxi.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "lxiai"
@@ -1593,7 +1585,7 @@
         {
           "title": "Migma",
           "body": "Create on-brand emails in seconds using AI.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://migma.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "migma"
@@ -1896,7 +1888,7 @@
           "title": "Cheers GEO",
           "body": "Create 3D maps for your next project.",
           "url": "https://cheersgeo.com/?ref=riseofmachine.com",
-          "tag": "Not available",
+          "tag": "Freemium",
           "date-added": "2025-10-21",
           "slug": "cheers-geo"
         },
@@ -2087,7 +2079,7 @@
         {
           "title": "Luma AI",
           "body": "Text to detailed 3D models, dynamic scenes.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://lumalabs.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "luma-ai"
@@ -2183,7 +2175,7 @@
         {
           "title": "Pencil",
           "body": "A new way to design right where you code.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://pencil.dev?ref=riseofmachine.com",
           "date-added": "2025-10-19",
           "slug": "pencil"
@@ -2311,7 +2303,7 @@
         {
           "title": "Variant",
           "body": "AI-powered design tool.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://variant.ai?ref=riseofmachine.com",
           "date-added": "2025-10-19",
           "slug": "variant"
@@ -2327,7 +2319,7 @@
         {
           "title": "Wonder",
           "body": "Design like magic.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://wonder.so?ref=riseofmachine.com",
           "date-added": "2025-10-19",
           "slug": "wonder"
@@ -2381,7 +2373,7 @@
         {
           "title": "Amazon Codewhisperer",
           "body": "A code writing assistant developed by Amazon",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://aws.amazon.com/cn/codewhisperer?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "amazon-codewhisperer"
@@ -2485,7 +2477,7 @@
         {
           "title": "Chef",
           "body": "AI-powered software development assistant.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://chef.convex.dev/?ref=riseofmachine.com",
           "date-added": "2025-06-04",
           "slug": "chef"
@@ -2565,7 +2557,7 @@
         {
           "title": "Frontend",
           "body": "UI generated from prompts or images by AI.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://frontend.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "frontend"
@@ -2621,7 +2613,7 @@
         {
           "title": "MakeHub",
           "body": "LLM provider arbitrage for best price/performance via single API.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://makehub.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-24",
           "slug": "makehub"
@@ -2757,7 +2749,7 @@
         {
           "title": "Portia AI",
           "body": "Build safe, reliable AI agents for compliance.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.portialabs.ai/?ref=riseofmachine.com",
           "date-added": "2025-07-03",
           "slug": "portia-ai"
@@ -2925,7 +2917,7 @@
         {
           "title": "Synexa",
           "body": "AI model integration.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://synexa.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "synexa"
@@ -3013,7 +3005,7 @@
         {
           "title": "Vellum",
           "body": "Developer platform for LLM apps.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.vellum.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-29",
           "slug": "vellum"
@@ -3029,7 +3021,7 @@
         {
           "title": "WebSparks",
           "body": "AI agent for building full-stack applications.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://websparks.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01",
           "slug": "websparks"
@@ -3219,7 +3211,7 @@
         {
           "title": "Study Fetch",
           "body": "Creat flashcards, quizzes, and chat help.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.studyfetch.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26",
           "slug": "study-fetch"
@@ -3235,7 +3227,7 @@
         {
           "title": "Thea",
           "body": "Study assistance.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.theastudy.com/home?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "thea"
@@ -3251,7 +3243,7 @@
         {
           "title": "Thesisai",
           "body": "Academic writing.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://theresanaiforthat.com/ai/thesisai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "thesisai"
@@ -3361,7 +3353,7 @@
         {
           "title": "ConvoZen",
           "body": "Conversational intelligence for customer success.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://convozen.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "convozen"
@@ -3417,7 +3409,7 @@
         {
           "title": "Glean",
           "body": "Search all company apps.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.glean.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15",
           "slug": "glean"
@@ -3433,7 +3425,7 @@
         {
           "title": "Gradient",
           "body": "AI cloud for enterprise.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://gradient.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-27",
           "slug": "gradient"
@@ -3449,7 +3441,7 @@
         {
           "title": "Hoory",
           "body": "AI-powered customer support assistant.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://hoory.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "hoory"
@@ -3465,7 +3457,7 @@
         {
           "title": "InsightSquared",
           "body": "Revenue analysis.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.insightsquared.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "insightsquared"
@@ -3593,7 +3585,7 @@
         {
           "title": "Normal",
           "body": "AI models for core enterprise workflows.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://normalcomputing.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-24",
           "slug": "normal"
@@ -3721,7 +3713,7 @@
         {
           "title": "Supaboard",
           "body": "World's simplest BI tool with AI data analysts.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://supaboard.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "supaboard"
@@ -3925,7 +3917,7 @@
         {
           "title": "Pinpoint Answer",
           "body": "AI-powered LinkedIn Pinpoint game analysis.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://pinpointanswer.online/?ref=riseofmachine.com",
           "date-added": "2025-08-01",
           "slug": "pinpoint-answer"
@@ -3933,7 +3925,7 @@
         {
           "title": "Qmai",
           "body": "AI motion capture.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.qmai.vip/?ref=riseofmachine.com",
           "date-added": "2023-12-26",
           "slug": "qmai"
@@ -4193,7 +4185,7 @@
         {
           "title": "Giga ML",
           "body": "On premise secure LLM.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://gigaml.com/?ref=riseofmachine.com",
           "date-added": "2023-12-29",
           "slug": "giga-ml"
@@ -4289,7 +4281,7 @@
         {
           "title": "Numbers Station",
           "body": "Data analytics copilot.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.numbersstation.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-24",
           "slug": "numbers-station"
@@ -4297,7 +4289,7 @@
         {
           "title": "Offlinechat",
           "body": "Offlinechat",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://offlinechat.chat?ref=riseofmachine.com",
           "date-added": "2025-06-03",
           "slug": "offlinechat"
@@ -4305,7 +4297,7 @@
         {
           "title": "OpenRouter",
           "body": "A unified interface for LLMs.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://openrouter.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-29",
           "slug": "openrouter"
@@ -4313,7 +4305,7 @@
         {
           "title": "Patronus AI",
           "body": "Automated AI evaluation.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.patronus.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-29",
           "slug": "patronus-ai"
@@ -4321,7 +4313,7 @@
         {
           "title": "Potpie-ai/potpie",
           "body": "Open Source AI Agents for your codebase.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://potpie.ai?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "potpie-aipotpie"
@@ -4361,7 +4353,7 @@
         {
           "title": "Sarvam",
           "body": "Models for India's diverse linguistic culture.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.sarvam.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-29",
           "slug": "sarvam"
@@ -4393,7 +4385,7 @@
         {
           "title": "Thinkbuddy",
           "body": "Native ChatGPT for MacOS with voice & vision.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://thinkbuddy.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "thinkbuddy"
@@ -4407,7 +4399,7 @@
         {
           "title": "Adalat",
           "body": "AI solutions to eliminate delays in court.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.adalat.ai/?ref=riseofmachine.com",
           "date-added": "2025-09-16",
           "slug": "adalat"
@@ -4432,7 +4424,7 @@
         {
           "title": "Genie",
           "body": "Your AI legal assistant for various tasks.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://genie.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "genie"
@@ -4606,7 +4598,7 @@
         {
           "title": "Snon Lyric",
           "body": "AI-powered lyrics generation for music creators.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.snonlyric.com/?ref=riseofmachine.com",
           "date-added": "2025-06-03",
           "slug": "snon-lyric"
@@ -4756,7 +4748,7 @@
         {
           "title": "Butternut",
           "body": "Build websites instantly using generative AI.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://butternut.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "butternut"
@@ -4788,7 +4780,7 @@
         {
           "title": "EasySite",
           "body": "AI website builder.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.easysite.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-24",
           "slug": "easysite"
@@ -4796,7 +4788,7 @@
         {
           "title": "Ezsite.ai",
           "body": "AI website builder.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://ezsite.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01",
           "slug": "ezsiteai"
@@ -4844,7 +4836,7 @@
         {
           "title": "Musik.so",
           "body": "AI music generator and editor",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://musik.so?ref=riseofmachine.com",
           "date-added": "2026-06-18",
           "slug": "musikso"
@@ -4852,7 +4844,7 @@
         {
           "title": "Olive",
           "body": "Generate admin dashboards from a natural language prompt.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://fromolive.com/?ref=riseofmachine.com",
           "date-added": "2025-07-03",
           "slug": "olive"
@@ -5018,7 +5010,7 @@
         {
           "title": "Blonde Filter",
           "body": "Instantly transform your hair to blonde shades.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://blondefilter.net?ref=riseofmachine.com",
           "date-added": "2025-09-13",
           "slug": "blonde-filter"
@@ -5050,7 +5042,7 @@
         {
           "title": "BulkGen AI",
           "body": "Specialized bulk AI image generator.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://bulkgen.co?ref=riseofmachine.com",
           "date-added": "2026-01-22",
           "slug": "bulkgen-ai"
@@ -5202,7 +5194,7 @@
         {
           "title": "Foosh",
           "body": "AI photoshoots.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.foosh.ai/?ref=riseofmachine.com",
           "date-added": "2024-12-14",
           "slug": "foosh"
@@ -5506,7 +5498,7 @@
         {
           "title": "Photify",
           "body": "AI-driven photo generator.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://photify.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "photify"
@@ -5682,7 +5674,7 @@
         {
           "title": "Topaz Labs",
           "body": "AI photo & video editing, local & secure.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.topazlabs.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "topaz-labs"
@@ -5760,7 +5752,7 @@
         {
           "title": "BeforeSunset",
           "body": "Personalized AI daily planning for your life.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://beforesunset.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "beforesunset"
@@ -5888,7 +5880,7 @@
         {
           "title": "Decktopus",
           "body": "Stop wasting hours on bad presentation slides.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://decktopus.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "decktopus"
@@ -5920,7 +5912,7 @@
         {
           "title": "Dola Calendar Assistant",
           "body": "Smartly plan & sync life on messaging apps.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://dola.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "dola-calendar-assistant"
@@ -5928,7 +5920,7 @@
         {
           "title": "Eloovor - Career Coach",
           "body": "Resume optimization.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.eloovor.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "eloovor-career-coach"
@@ -5952,7 +5944,7 @@
         {
           "title": "Floworks",
           "body": "AI-powered assistant.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://floworks.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-24",
           "slug": "floworks"
@@ -5976,7 +5968,7 @@
         {
           "title": "Glitter",
           "body": "Turn processes into step-by-step guides.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://glitter.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "glitter"
@@ -6056,7 +6048,7 @@
         {
           "title": "JobBuddy",
           "body": "Your AI copilot for job searching.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://jobright.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "jobbuddy"
@@ -6104,7 +6096,7 @@
         {
           "title": "Lazy 2.0",
           "body": "Capture thoughts and chat with your notes using AI.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://lazy.so/?ref=riseofmachine.com",
           "date-added": "2025-07-03",
           "slug": "lazy-20"
@@ -6312,7 +6304,7 @@
         {
           "title": "PixieBrix",
           "body": "Productivity.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.pixiebrix.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "pixiebrix"
@@ -6368,7 +6360,7 @@
         {
           "title": "Remio Note Taker",
           "body": "Local first AI note taker and PKM solution.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://remio.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "remio-note-taker"
@@ -6464,7 +6456,7 @@
         {
           "title": "Skywork",
           "body": "AI tool for productivity & workflow automation.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://skywork.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-17",
           "slug": "skywork"
@@ -6488,7 +6480,7 @@
         {
           "title": "Syft",
           "body": "Define your news, your topics, your way.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://syft.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "syft"
@@ -6560,7 +6552,7 @@
         {
           "title": "Wave",
           "body": "Task automation.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://thatswave.com/login?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "wave"
@@ -6686,7 +6678,7 @@
         {
           "title": "GPT Prompts",
           "body": "AI-powered GPT prompt generator.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://gptprompts.ai/?ref=riseofmachine.com",
           "date-added": "2025-05-24",
           "slug": "gpt-prompts"
@@ -6726,7 +6718,7 @@
         {
           "title": "Prompt Library",
           "body": "Curated AI prompts for writing and proofreading.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.kerlig.com/prompt-library?ref=riseofmachine.com",
           "date-added": "2025-06-04",
           "slug": "prompt-library"
@@ -6964,7 +6956,7 @@
         {
           "title": "Ontosight.ai",
           "body": "AI research assistant for smarter insights.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://ontosight.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01",
           "slug": "ontosightai"
@@ -6980,7 +6972,7 @@
         {
           "title": "Papers",
           "body": "Academic research.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.papersapp.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "papers"
@@ -7004,7 +6996,7 @@
         {
           "title": "Rivalout",
           "body": "Competitive analysis.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://rivalout.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "rivalout"
@@ -7044,7 +7036,7 @@
         {
           "title": "Wokelo",
           "body": "Investment research and due diligence.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.wokelo.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-27",
           "slug": "wokelo"
@@ -7082,7 +7074,7 @@
         {
           "title": "Coframe",
           "body": "Self-optimize your site.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.coframe.com/?ref=riseofmachine.com",
           "date-added": "2024-10-30",
           "slug": "coframe"
@@ -7280,7 +7272,7 @@
         {
           "title": "Highperformr",
           "body": "Turn social audience into a growth engine.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://highperformr.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "highperformr"
@@ -7550,7 +7542,7 @@
         {
           "title": "D-id",
           "body": "Generate digital human dubbing video based on text",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://studio.d-id.com?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "d-id"
@@ -7670,7 +7662,7 @@
         {
           "title": "Funy Video, Image",
           "body": "Videos.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://funy.ai/ai-kissing-video-free/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "funy-video-image"
@@ -7718,7 +7710,7 @@
         {
           "title": "Hailuoai",
           "body": "AI Video Creation Tool by Minimax",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://hailuoai.com/video?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "hailuoai"
@@ -7822,7 +7814,7 @@
         {
           "title": "Kling AI",
           "body": "AI Video Creation Tool by kuaishou.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://klingai.com?ref=riseofmachine.com",
           "date-added": "2025-06-14",
           "slug": "kling-ai"
@@ -7862,7 +7854,7 @@
         {
           "title": "LTX2",
           "body": "Transform text into stunning video content.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://ltx2.org/?ref=riseofmachine.com",
           "date-added": "2025-11-03",
           "slug": "ltx2"
@@ -7958,7 +7950,7 @@
         {
           "title": "Omni AI Video Generator",
           "body": "Quickly visualize creative video ideas",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://geminiomni.org/?ref=riseofmachine.com",
           "date-added": "2026-05-13",
           "slug": "omni-ai-video-generator"
@@ -7966,7 +7958,7 @@
         {
           "title": "Omni Flash Video",
           "body": "AI video generator for creators",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://omniflashvideo.org/?ref=riseofmachine.com",
           "date-added": "2026-05-20",
           "slug": "omni-flash-video"
@@ -8086,7 +8078,7 @@
         {
           "title": "Rizzle",
           "body": "No edit video creation powered by AI.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://rizzle.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "rizzle"
@@ -8158,7 +8150,7 @@
         {
           "title": "Step Video T2V",
           "body": "Transforms text into high-quality videos.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://stepvideot2v.net?ref=riseofmachine.com",
           "date-added": "2025-06-30",
           "slug": "step-video-t2v"
@@ -8174,7 +8166,7 @@
         {
           "title": "Summarize",
           "body": "Summarize.tech: ai-powered video summaries",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://www.summarize.tech/?ref=riseofmachine.com",
           "date-added": "2025-06-03",
           "slug": "summarize"
@@ -8254,7 +8246,7 @@
         {
           "title": "Veo 3 by Kie",
           "body": "Veo 3 API for video generation, synchronized audio.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://kie.ai/features/v3-api?ref=riseofmachine.com",
           "date-added": "2025-06-17",
           "slug": "veo-3-by-kie"
@@ -8620,7 +8612,7 @@
         {
           "title": "GmapsExtrator",
           "body": "Extract Google Maps leads.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://gmaps-extractor.com?ref=riseofmachine.com",
           "date-added": "2026-02-14",
           "slug": "gmapsextrator"
@@ -8660,7 +8652,7 @@
         {
           "title": "Hoody",
           "body": "Every AI, one dashboard, anonymous access.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://hoody.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "hoody"
@@ -8740,7 +8732,7 @@
         {
           "title": "Manga Translator",
           "body": "Enjoy manga with AI-powered instant translation.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://aimangatranslator.io/?ref=riseofmachine.com",
           "date-added": "2026-04-12",
           "slug": "manga-translator"
@@ -8844,7 +8836,7 @@
         {
           "title": "Rainbow",
           "body": "Precise precipitation forecasting app with AI.",
-          "tag": "Not available",
+          "tag": "Freemium",
           "url": "https://rainbow.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "rainbow"

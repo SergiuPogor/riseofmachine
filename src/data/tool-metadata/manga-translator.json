@@ -3,17 +3,17 @@
   "description": "Easily translate manga to any languages with our free AI manga translator. Upload manga pages and translate it without usage limit and sign-up.",
   "category": "xtras",
   "url": "https://aimangatranslator.io/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2026-04-12",
   "slug": "manga-translator",
   "related": [
     "mee-manga-translator",
     "palmscanner-ai",
-    "vedic-astrology-chart",
-    "astrocartography",
     "destiny-matrix",
-    "vacnavi",
     "love-mbti",
-    "gmapsextrator"
+    "gmapsextrator",
+    "nectar-ai",
+    "hammer",
+    "manus"
   ]
 }

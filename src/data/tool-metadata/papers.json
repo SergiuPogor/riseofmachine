@@ -3,17 +3,17 @@
   "description": "Papers is your award winning reference manager that will improve the way you find, access, organize, read, cite and share scholarly research.",
   "category": "research",
   "url": "https://www.papersapp.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "papers",
   "related": [
     "resea-ai",
     "research",
     "osum",
-    "merlin",
     "gaabstract",
     "capgo-ai",
     "consensus",
-    "jev-social"
+    "ontosightai",
+    "wokelo"
   ]
 }

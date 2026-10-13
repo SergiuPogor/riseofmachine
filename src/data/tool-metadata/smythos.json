@@ -9,11 +9,11 @@
   "related": [
     "droidrun",
     "onenode",
+    "portia-ai",
     "zen-agents",
     "amazon-sagemaker",
     "cactal",
     "elva",
-    "builduo",
-    "atla"
+    "builduo"
   ]
 }

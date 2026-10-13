@@ -3,17 +3,17 @@
   "description": "PixieBrix is the enterprise platform to orchestrate and deploy AI assistance & agents that transform work. Securely delivered at scale - powered by leading models and your company’s tools and data.",
   "category": "productivity",
   "url": "https://www.pixiebrix.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "pixiebrix",
   "related": [
-    "computerx",
     "concierge",
     "taskade",
     "skywork",
     "screenpipe",
     "orkas",
-    "bankingnewsai",
-    "onetwo-resume"
+    "onetwo-resume",
+    "converge-ai",
+    "remio"
   ]
 }

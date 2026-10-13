@@ -3,15 +3,15 @@
   "description": "Your AI legal assistant for various tasks.",
   "category": "legal",
   "url": "https://genie.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "genie",
   "related": [
     "ai-lawyer",
     "westaway-ace",
     "adalat",
-    "draftlex",
     "law-school-ai",
+    "draftlex",
     "spellbook"
   ]
 }

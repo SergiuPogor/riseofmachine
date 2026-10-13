@@ -3,17 +3,17 @@
   "description": "Transform your hair to blonde instantly with Blonde Filter's AI technology. Upload your photo and see yourself with stunning blonde hair in seconds.",
   "category": "photos",
   "url": "https://blondefilter.net?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-09-13",
   "slug": "blonde-filter",
   "related": [
-    "clothes-changer",
-    "silhouette-generator",
     "dressx",
-    "dual-shades",
     "faceswap",
-    "mirror-ai",
-    "giffaceswap",
-    "freemaker-ai"
+    "enhancedating",
+    "image-to-image",
+    "imagine2",
+    "fromimage-ai",
+    "ai-image-combiner",
+    "animegenai"
   ]
 }

@@ -3,17 +3,17 @@
   "description": "Simplify AI deployment with Synexa. Run powerful AI models instantly with just one line of code. Fast, stable, and developer-friendly.",
   "category": "developer",
   "url": "https://synexa.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "synexa",
   "related": [
     "elva",
-    "orcareplay",
-    "yylo",
-    "agent-qa",
     "cactal",
     "chartcraft",
-    "sqlmate",
-    "markitdown"
+    "screenshot-to-code",
+    "director",
+    "nora",
+    "orchids",
+    "atla"
   ]
 }

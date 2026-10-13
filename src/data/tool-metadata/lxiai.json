@@ -3,7 +3,7 @@
   "description": "Writing.",
   "category": "copywriting",
   "url": "https://lxi.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "lxiai",
   "related": [
@@ -12,8 +12,8 @@
     "quillbot",
     "rytr",
     "wordtune",
-    "cowriter",
     "hyperwrite",
-    "hypotenuse"
+    "writego",
+    "remagine-ai"
   ]
 }

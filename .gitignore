@@ -28,4 +28,5 @@ lerna-debug.log*
 # planning notes
 plan.md
 plans/
-
+.agents
+skills-lock.json

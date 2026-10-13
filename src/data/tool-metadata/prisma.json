@@ -3,17 +3,17 @@
   "description": "Building the future of photo and video editing.",
   "category": "art",
   "url": "https://prisma-ai.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "prisma",
   "related": [
-    "ghibli-app",
-    "ghibli-art-ai",
     "anyimg",
     "mediaai-art",
-    "banana-ai-art",
     "nightcafe-creator",
     "furryai",
-    "imgnai"
+    "imgnai",
+    "lora",
+    "imagefx",
+    "mycoloringai"
   ]
 }

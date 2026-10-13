@@ -3,7 +3,7 @@
   "description": "Wokelo AI transforms research for PE, VC, Consulting, and Corporates. Save time, uncover insights, and make data-driven decisions. Book your demo now.",
   "category": "research",
   "url": "https://www.wokelo.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-27",
   "slug": "wokelo",
   "related": [
@@ -11,9 +11,9 @@
     "research",
     "osum",
     "papers",
-    "merlin",
     "gaabstract",
     "resea-ai",
-    "capgo-ai"
+    "capgo-ai",
+    "consensus"
   ]
 }

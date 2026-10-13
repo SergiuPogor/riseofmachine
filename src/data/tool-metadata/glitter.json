@@ -3,7 +3,7 @@
   "description": "Turn processes into step-by-step guides.",
   "category": "productivity",
   "url": "https://glitter.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "glitter",
   "related": [
@@ -11,9 +11,9 @@
     "xmind",
     "screenpipe",
     "orkas",
-    "bankingnewsai",
     "onetwo-resume",
     "converge-ai",
-    "remio"
+    "remio",
+    "bookletai"
   ]
 }

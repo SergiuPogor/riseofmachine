@@ -3,17 +3,17 @@
   "description": "Generate powerful tools and dashboards connected to your databases or third-party integrations in minutes.",
   "category": "nocode",
   "url": "https://fromolive.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-07-03",
   "slug": "olive",
   "related": [
-    "pageai",
     "unideck-beta",
     "kleap",
     "make-song-ai",
     "musikso",
     "song-lyrics-review",
-    "ai-rapper",
-    "easysite"
+    "easysite",
+    "akkio",
+    "browse-ai"
   ]
 }

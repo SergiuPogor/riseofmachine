@@ -3,17 +3,17 @@
   "description": "Portia enables teams to build safe, reliable AI agents in regulated environments.",
   "category": "developer",
   "url": "https://www.portialabs.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-07-03",
   "slug": "portia-ai",
   "related": [
-    "n8n-workflow-builder",
     "smythos",
     "zen-agents",
     "cekura",
     "cactal",
-    "marvin",
     "elva",
-    "builduo"
+    "builduo",
+    "atla",
+    "helix"
   ]
 }

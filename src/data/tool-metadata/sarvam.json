@@ -3,7 +3,7 @@
   "description": "At Sarvam, we're on a mission to create a sovereign AI ecosystem for India that empowers governments, enterprises, and nonprofits to use GenAI solutions.",
   "category": "llm",
   "url": "https://www.sarvam.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-29",
   "slug": "sarvam",
   "related": [
@@ -13,7 +13,7 @@
     "gptgeminigrokai",
     "coderplan",
     "ferryapi",
-    "muse-spark-ai",
-    "deepseekv4dev"
+    "chatgpt",
+    "deepseek"
   ]
 }

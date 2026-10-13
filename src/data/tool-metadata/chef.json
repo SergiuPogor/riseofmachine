@@ -3,17 +3,17 @@
   "description": "Cook up something hot with Chef, the full-stack AI coding agent from Convex",
   "category": "developer",
   "url": "https://chef.convex.dev/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-04",
   "slug": "chef",
   "related": [
     "tabnine",
-    "marscode",
-    "fitten-code",
-    "axflow",
-    "agent-qa",
     "amazon-codewhisperer",
     "elva",
-    "orcareplay"
+    "cactal",
+    "chartcraft",
+    "screenshot-to-code",
+    "director",
+    "nora"
   ]
 }

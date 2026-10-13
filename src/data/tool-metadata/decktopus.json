@@ -3,17 +3,17 @@
   "description": "Decktopus is an AI presentation maker, that will create amazing presentations in seconds. You only need to type the presentation title and your presentation is ready.",
   "category": "productivity",
   "url": "https://decktopus.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "decktopus",
   "related": [
     "powered-template",
-    "slidesai",
     "screenpipe",
     "orkas",
-    "bankingnewsai",
     "onetwo-resume",
     "converge-ai",
-    "remio"
+    "remio",
+    "bookletai",
+    "uniquenamesnet"
   ]
 }

@@ -8,12 +8,12 @@
   "slug": "photoleap",
   "related": [
     "picsart",
+    "topaz-labs",
     "image-to-image",
+    "photify",
     "hama",
     "add-person-to-photo",
     "image-text-editor",
-    "clipdrop",
-    "photo-style",
-    "imggood"
+    "clipdrop"
   ]
 }

@@ -10,10 +10,10 @@
     "image-to-image",
     "fotol-image-generator",
     "promptwall",
+    "bulkgen-ai",
     "magnific",
     "imagine2",
     "ai-image-combiner",
-    "blur-background",
-    "image-describer"
+    "blur-background"
   ]
 }

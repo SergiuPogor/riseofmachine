@@ -3,17 +3,17 @@
   "description": "Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.",
   "category": "photos",
   "url": "https://www.topazlabs.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "topaz-labs",
   "related": [
     "photoleap",
-    "ps-nano-banana",
     "picsart",
-    "photo",
     "image-to-image",
     "photify",
-    "cozaiphoto",
-    "headshot-photo"
+    "hama",
+    "add-person-to-photo",
+    "image-text-editor",
+    "clipdrop"
   ]
 }

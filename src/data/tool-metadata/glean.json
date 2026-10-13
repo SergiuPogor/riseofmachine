@@ -3,17 +3,17 @@
   "description": "Glean is the Work AI platform connected to your enterprise's data. Find, create, and automate anything. Explore what Work AI can do for you!",
   "category": "enterprise",
   "url": "https://www.glean.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-15",
   "slug": "glean",
   "related": [
     "sniff-job",
-    "scale-ai",
-    "nuclia",
     "naoma-ai",
-    "raykolabs",
     "ellie",
     "superai",
-    "streaml"
+    "conduit",
+    "salestarget",
+    "receiptor",
+    "toffu"
   ]
 }

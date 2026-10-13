@@ -3,17 +3,17 @@
   "description": "Clone any website to a fullstack app with EZsite AI. Simply enter a URL and our AI creates pixel-perfect React/Vue.js applications with backend functionality. Fast, accurate, designer and developer-friendly.",
   "category": "nocode",
   "url": "https://ezsite.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-01",
   "slug": "ezsiteai",
   "related": [
     "kleap",
     "easysite",
     "droxy",
-    "pageai",
     "makeform",
     "make-song-ai",
     "musikso",
-    "song-lyrics-review"
+    "song-lyrics-review",
+    "olive"
   ]
 }

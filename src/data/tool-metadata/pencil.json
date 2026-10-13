@@ -3,7 +3,7 @@
   "description": "Pencil fundamentally increases your engineering speed by bringing designing directly into your preferred IDE.",
   "category": "design",
   "url": "https://pencil.dev?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-10-19",
   "slug": "pencil",
   "related": [
@@ -12,8 +12,8 @@
     "uxmagic-ai",
     "banani",
     "subframe",
-    "yard-landscape-design",
     "shape-of-ai",
-    "uizard"
+    "uizard",
+    "lovspark-ai"
   ]
 }

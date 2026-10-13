@@ -8,12 +8,12 @@
   "slug": "picsart",
   "related": [
     "photoleap",
+    "topaz-labs",
     "image-to-image",
+    "photify",
     "remove-background-by-picsart",
     "bria",
     "hama",
-    "add-person-to-photo",
-    "image-text-editor",
-    "clipdrop"
+    "add-person-to-photo"
   ]
 }

@@ -3,7 +3,7 @@
   "description": "Thinkbuddy: Your Compass in AI Universe. Unify 15+ leading AI models like ChatGPT, Anthropic, and Google into one seamless platform. Experience advanced features such as Remix, voice interaction, and comprehensive document handling—no sign-up required.",
   "category": "llm",
   "url": "https://thinkbuddy.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "thinkbuddy",
   "related": [
@@ -13,7 +13,7 @@
     "gptgeminigrokai",
     "coderplan",
     "ferryapi",
-    "muse-spark-ai",
-    "deepseekv4dev"
+    "deepseek",
+    "potpie-aipotpie"
   ]
 }

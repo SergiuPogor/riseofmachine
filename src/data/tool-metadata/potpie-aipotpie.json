@@ -3,17 +3,17 @@
   "description": "Build task-oriented custom agents for your codebase that perform engineering tasks with high precision powered by intelligence and context from your data. Build agents for use cases like system design, debugging, integration testing, onboarding etc.",
   "category": "llm",
   "url": "https://potpie.ai?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-14",
   "slug": "potpie-aipotpie",
   "related": [
     "agents-by-athena",
     "flowpoint",
     "replicate",
-    "ai-agents-list",
-    "ai-agents-live",
     "artificialwatch",
     "gptgeminigrokai",
-    "coderplan"
+    "coderplan",
+    "ferryapi",
+    "chatgpt"
   ]
 }

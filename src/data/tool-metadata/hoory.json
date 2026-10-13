@@ -3,17 +3,17 @@
   "description": "AI-powered customer support assistant.",
   "category": "enterprise",
   "url": "https://hoory.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "hoory",
   "related": [
-    "brainfish",
-    "kommunicate",
     "my-askai",
-    "ioni",
     "ellie",
     "triviat",
     "mutual",
-    "cody"
+    "dust",
+    "sniff-job",
+    "convozen",
+    "brainfish"
   ]
 }

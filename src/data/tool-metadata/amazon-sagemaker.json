@@ -12,8 +12,8 @@
     "poe-api",
     "builduo",
     "helix",
+    "portia-ai",
     "zen-agents",
-    "buildship",
-    "elva"
+    "buildship"
   ]
 }

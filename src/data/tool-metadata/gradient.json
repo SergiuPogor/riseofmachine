@@ -3,17 +3,17 @@
   "description": "All your info in one place.",
   "category": "enterprise",
   "url": "https://gradient.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-27",
   "slug": "gradient",
   "related": [
     "normal",
     "naoma-ai",
-    "raykolabs",
     "ellie",
     "superai",
-    "streaml",
     "conduit",
-    "security-questionnaire"
+    "salestarget",
+    "receiptor",
+    "toffu"
   ]
 }

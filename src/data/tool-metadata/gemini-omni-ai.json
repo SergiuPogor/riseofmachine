@@ -13,7 +13,7 @@
     "supermaker",
     "genmo",
     "openseedance",
-    "grok-video-generator",
-    "vidmix"
+    "omni-flash-video",
+    "grok-video-generator"
   ]
 }

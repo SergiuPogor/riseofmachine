@@ -3,17 +3,17 @@
   "description": "Step Video T2V is an advanced AI-powered text-to-video tool that transforms text into high-quality, professional videos up to 204 frames long, enabling seamless and efficient video creation while unlocking endless possibilities.",
   "category": "video",
   "url": "https://stepvideot2v.net?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-30",
   "slug": "step-video-t2v",
   "related": [
     "vidduo-agent",
-    "soda-video-ai",
     "haiper-ai-video-generator",
-    "wan-22",
     "funy-video-image",
     "lyric-video-studio",
     "neural-frames",
-    "morph-studio"
+    "creatify",
+    "lehar-ai-video-generator",
+    "video-to-prompt"
   ]
 }

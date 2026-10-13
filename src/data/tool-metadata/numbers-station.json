@@ -3,17 +3,17 @@
   "description": "Alation enables organizations to scale data initiatives more efficiently and advance new AI initiatives. Discover how we can bring the power of agentic AI to you data.",
   "category": "llm",
   "url": "https://www.numbersstation.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-24",
   "slug": "numbers-station",
   "related": [
-    "microsoft-copilot",
     "sid",
-    "langfuse",
-    "llamaindex",
     "artificialwatch",
     "gptgeminigrokai",
     "coderplan",
-    "ferryapi"
+    "ferryapi",
+    "chatgpt",
+    "deepseek",
+    "potpie-aipotpie"
   ]
 }

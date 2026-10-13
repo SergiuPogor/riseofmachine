@@ -10,7 +10,7 @@
   {
     "title": "Amazon Codewhisperer",
     "body": "A code writing assistant developed by Amazon",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://aws.amazon.com/cn/codewhisperer?ref=riseofmachine.com",
     "date-added": "2025-06-14",
     "slug": "amazon-codewhisperer"
@@ -114,7 +114,7 @@
   {
     "title": "Chef",
     "body": "AI-powered software development assistant.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://chef.convex.dev/?ref=riseofmachine.com",
     "date-added": "2025-06-04",
     "slug": "chef"
@@ -194,7 +194,7 @@
   {
     "title": "Frontend",
     "body": "UI generated from prompts or images by AI.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://frontend.ai/?ref=riseofmachine.com",
     "date-added": "2025-06-06",
     "slug": "frontend"
@@ -250,7 +250,7 @@
   {
     "title": "MakeHub",
     "body": "LLM provider arbitrage for best price/performance via single API.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://makehub.ai/?ref=riseofmachine.com",
     "date-added": "2025-06-24",
     "slug": "makehub"
@@ -386,7 +386,7 @@
   {
     "title": "Portia AI",
     "body": "Build safe, reliable AI agents for compliance.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://www.portialabs.ai/?ref=riseofmachine.com",
     "date-added": "2025-07-03",
     "slug": "portia-ai"
@@ -554,7 +554,7 @@
   {
     "title": "Synexa",
     "body": "AI model integration.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://synexa.ai/?ref=riseofmachine.com",
     "date-added": "2025-06-06",
     "slug": "synexa"
@@ -642,7 +642,7 @@
   {
     "title": "Vellum",
     "body": "Developer platform for LLM apps.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://www.vellum.ai/?ref=riseofmachine.com",
     "date-added": "2023-12-29",
     "slug": "vellum"
@@ -658,7 +658,7 @@
   {
     "title": "WebSparks",
     "body": "AI agent for building full-stack applications.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://websparks.ai/?ref=riseofmachine.com",
     "date-added": "2025-06-01",
     "slug": "websparks"
