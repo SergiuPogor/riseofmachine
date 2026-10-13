@@ -3,17 +3,17 @@
   "description": "Make your own news channels with Syft: personalized topics from trusted sources, all in one place.",
   "category": "productivity",
   "url": "https://syft.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "syft",
   "related": [
-    "bankingnewsai",
     "screenpipe",
     "orkas",
     "onetwo-resume",
     "converge-ai",
     "remio",
-    "notebooklm-remover",
-    "dev-jobs"
+    "bookletai",
+    "uniquenamesnet",
+    "dashform"
   ]
 }

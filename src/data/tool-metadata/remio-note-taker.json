@@ -3,17 +3,17 @@
   "description": "remio is the next-gen AI productivity assistant,designed to revolutionize the way users capture, organize, and utilize information.",
   "category": "productivity",
   "url": "https://remio.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "remio-note-taker",
   "related": [
     "screenpipe",
     "orkas",
-    "bankingnewsai",
     "onetwo-resume",
     "converge-ai",
-    "notebooklm-remover",
-    "dev-jobs",
-    "bookletai"
+    "bookletai",
+    "uniquenamesnet",
+    "dashform",
+    "upscaler"
   ]
 }

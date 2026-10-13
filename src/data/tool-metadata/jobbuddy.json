@@ -3,17 +3,17 @@
   "description": "Discover your dream job with Jobright, your AI job search copilot. Get tailored resumes, social connections, and autofill jobs applilcations for your fit.",
   "category": "productivity",
   "url": "https://jobright.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "jobbuddy",
   "related": [
     "jobgpt",
     "reztune",
-    "dev-jobs",
     "screenpipe",
     "orkas",
-    "bankingnewsai",
     "onetwo-resume",
-    "converge-ai"
+    "converge-ai",
+    "remio",
+    "bookletai"
   ]
 }

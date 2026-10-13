@@ -9,11 +9,11 @@
   "related": [
     "haiper-ai-video-generator",
     "veo-video",
+    "d-id",
+    "ltx2",
     "elaiio",
     "vidu-studio",
     "viralrot",
-    "image-to-video",
-    "vivago",
-    "decohere"
+    "step-video-t2v"
   ]
 }

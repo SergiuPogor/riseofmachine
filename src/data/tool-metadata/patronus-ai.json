@@ -3,7 +3,7 @@
   "description": "The best way to ship top-tier AI products. Based on industry-leading AI research and tools.",
   "category": "llm",
   "url": "https://www.patronus.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-29",
   "slug": "patronus-ai",
   "related": [
@@ -11,9 +11,9 @@
     "gptgeminigrokai",
     "coderplan",
     "ferryapi",
-    "muse-spark-ai",
-    "deepseekv4dev",
     "chatgpt",
-    "deepseek"
+    "deepseek",
+    "potpie-aipotpie",
+    "agents-by-athena"
   ]
 }

@@ -7,13 +7,13 @@
   "date-added": "2023-12-24",
   "slug": "run-llm",
   "related": [
+    "giga-ml",
     "modal",
     "helicone",
     "replicate",
     "artificialwatch",
     "gptgeminigrokai",
     "coderplan",
-    "ferryapi",
-    "chatgpt"
+    "ferryapi"
   ]
 }

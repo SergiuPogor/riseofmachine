@@ -32,14 +32,6 @@
     "slug": "banana-ai-1"
   },
   {
-    "title": "Banana AI Art",
-    "body": "AI Image generator.",
-    "tag": "Not available",
-    "url": "https://banana-ai.art/?ref=riseofmachine.com",
-    "date-added": "2025-11-03",
-    "slug": "banana-ai-art"
-  },
-  {
     "title": "Banana Pro",
     "body": "Professional text-to-image creation model.",
     "tag": "Freemium",
@@ -442,7 +434,7 @@
   {
     "title": "Line Drawing Converter",
     "body": "Converts photos into line drawings.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://linedrawingconverter.com/?ref=riseofmachine.com",
     "date-added": "2026-08-04",
     "slug": "line-drawing-converter"
@@ -546,7 +538,7 @@
   {
     "title": "Nero AI",
     "body": "AI picture upscale, AI repair scratches.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://ai.nero.com?ref=riseofmachine.com",
     "date-added": "2025-06-14",
     "slug": "nero-ai"
@@ -618,7 +610,7 @@
   {
     "title": "Prisma",
     "body": "Transform photos into art with AI quickly.",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://prisma-ai.com/?ref=riseofmachine.com",
     "date-added": "2025-06-06",
     "slug": "prisma"
@@ -650,7 +642,7 @@
   {
     "title": "Seede AI",
     "body": "Helps you create a poster in 1 min",
-    "tag": "Not available",
+    "tag": "Freemium",
     "url": "https://seede.ai?ref=riseofmachine.com",
     "date-added": "2025-06-14",
     "slug": "seede-ai"

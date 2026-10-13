@@ -3,17 +3,17 @@
   "description": "Rainbow Weather is a hyperlocal weather app that helps you keep your plans for the day and don't get wet. Get precise rain forecasts and future radar.",
   "category": "xtras",
   "url": "https://rainbow.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "rainbow",
   "related": [
     "palmscanner-ai",
-    "vedic-astrology-chart",
     "mee-manga-translator",
-    "astrocartography",
     "manga-translator",
     "destiny-matrix",
-    "vacnavi",
-    "love-mbti"
+    "love-mbti",
+    "gmapsextrator",
+    "nectar-ai",
+    "hammer"
   ]
 }

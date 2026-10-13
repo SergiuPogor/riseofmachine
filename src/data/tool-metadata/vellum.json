@@ -3,17 +3,17 @@
   "description": "Create powerful AI agents by chatting with AI. With Vellum, just describe what you want and your agent starts working. What once took a team of engineers now takes a single conversation.",
   "category": "developer",
   "url": "https://www.vellum.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-29",
   "slug": "vellum",
   "related": [
-    "pieces",
     "rork-app",
-    "lintrule",
-    "runpod",
-    "teachable-machine",
     "lightning",
-    "new-ui",
-    "nora"
+    "nora",
+    "pythagora-20",
+    "makehub",
+    "elva",
+    "cactal",
+    "chartcraft"
   ]
 }

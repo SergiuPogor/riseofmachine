@@ -3,17 +3,17 @@
   "description": "InsightSquared’s powerful revenue analytics and sales forecasting solutions provide insights in a flexible, easy-to-use platform.",
   "category": "enterprise",
   "url": "https://www.insightsquared.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "insightsquared",
   "related": [
     "naoma-ai",
-    "raykolabs",
     "ellie",
     "superai",
-    "streaml",
     "conduit",
-    "security-questionnaire",
-    "salestarget"
+    "salestarget",
+    "receiptor",
+    "toffu",
+    "chat-agents"
   ]
 }

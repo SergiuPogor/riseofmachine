@@ -27,7 +27,7 @@ const index = mcpIndex as McpCategoryIndex;
 // it for this server on load (same model as /tools/{slug}). No standalone page.
 const category = server.category;
 const categoryTitle = index[category]?.title ?? category;
-const canonicalUrl = `https://riseofmachine.com/mcp/servers/${server.slug}`;
+const canonicalUrl = `https://riseofmachine.com/mcp/servers/${server.slug}/`;
 
 const breadcrumbs = [
     { name: 'Home', url: 'https://riseofmachine.com' },

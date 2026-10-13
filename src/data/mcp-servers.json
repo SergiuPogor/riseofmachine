@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:12:23.615Z",
+  "generatedAt": "2026-10-13T09:40:02.503Z",
   "servers": [
     {
       "slug": "ai-agenttrust-mcp-server",
@@ -3722,7 +3722,7 @@
       "name": "co.appscreen/mcp",
       "title": "AppScreen",
       "description": "Render App Store and Google Play screenshots from app captures: device frames, sizes, languages.",
-      "version": "0.29.0",
+      "version": "0.30.0",
       "url": "https://appscreen.co/mcp",
       "remotes": [],
       "packages": [
@@ -3730,7 +3730,7 @@
           "registryType": "npm",
           "identifier": "@appscreen/mcp",
           "transport": "stdio",
-          "version": "0.29.0",
+          "version": "0.30.0",
           "runtimeHint": "npx",
           "environmentVariables": [
             {
@@ -3744,15 +3744,15 @@
           ]
         }
       ],
-      "installCommand": "APPSCREEN_API_KEY=<value> APPSCREEN_BASE_URL=<value> npx @appscreen/mcp@0.29.0",
+      "installCommand": "APPSCREEN_API_KEY=<value> APPSCREEN_BASE_URL=<value> npx @appscreen/mcp@0.30.0",
       "installKind": "package",
       "category": "other",
       "categories": [
         "other"
       ],
       "status": "active",
-      "publishedAt": "2026-10-09T12:34:57.753614Z",
-      "updatedAt": "2026-10-09T12:34:57.753614Z",
+      "publishedAt": "2026-10-13T08:11:22.734121Z",
+      "updatedAt": "2026-10-13T08:11:22.734121Z",
       "websiteUrl": "https://appscreen.co/mcp",
       "repository": {
         "url": "https://github.com/omelas-tech/appscreen-mcp",
@@ -10416,7 +10416,7 @@
       "name": "de.drillflow/mcp",
       "title": "DrillFlow",
       "description": "Publish drill-down diagrams from an agent; every Mermaid subgraph becomes a level you enter.",
-      "version": "1.0.78",
+      "version": "1.0.79",
       "url": "https://drillflow.de",
       "remotes": [],
       "packages": [
@@ -10424,7 +10424,7 @@
           "registryType": "npm",
           "identifier": "drillflow-mcp",
           "transport": "stdio",
-          "version": "1.0.78",
+          "version": "1.0.79",
           "environmentVariables": [
             {
               "name": "DRILLFLOW_TOKEN",
@@ -10437,15 +10437,15 @@
           ]
         }
       ],
-      "installCommand": "DRILLFLOW_TOKEN=<value> DRILLFLOW_API_URL=<value> npx -y drillflow-mcp@1.0.78",
+      "installCommand": "DRILLFLOW_TOKEN=<value> DRILLFLOW_API_URL=<value> npx -y drillflow-mcp@1.0.79",
       "installKind": "package",
       "category": "other",
       "categories": [
         "other"
       ],
       "status": "active",
-      "publishedAt": "2026-10-09T15:34:10.467209Z",
-      "updatedAt": "2026-10-09T15:34:10.467209Z",
+      "publishedAt": "2026-10-13T06:23:47.945771Z",
+      "updatedAt": "2026-10-13T06:23:47.945771Z",
       "websiteUrl": "https://drillflow.de",
       "repository": {
         "url": "https://github.com/capydev42/drillflow-mcp",
@@ -14141,26 +14141,26 @@
       "name": "io.github.1019666077-bit/webcam",
       "title": "Webcam MCP",
       "description": "Give LLM agents webcam access: capture photos and record short videos over MCP.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "url": "https://github.com/1019666077-bit/webcam_mcp",
       "remotes": [],
       "packages": [
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/1019666077-bit/webcam_mcp/releases/download/v0.2.0/botbridge-webcam.mcpb",
+          "identifier": "https://github.com/1019666077-bit/webcam_mcp/releases/download/v0.2.1/botbridge-webcam.mcpb",
           "transport": "stdio",
-          "version": "0.2.0"
+          "version": "0.2.1"
         }
       ],
-      "installCommand": "mcpb install https://github.com/1019666077-bit/webcam_mcp/releases/download/v0.2.0/botbridge-webcam.mcpb",
+      "installCommand": "mcpb install https://github.com/1019666077-bit/webcam_mcp/releases/download/v0.2.1/botbridge-webcam.mcpb",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T12:05:28.541652Z",
-      "updatedAt": "2026-10-12T12:05:28.541652Z",
+      "publishedAt": "2026-10-13T07:53:35.928166Z",
+      "updatedAt": "2026-10-13T07:53:35.928166Z",
       "websiteUrl": "https://github.com/1019666077-bit/webcam_mcp",
       "repository": {
         "url": "https://github.com/1019666077-bit/webcam_mcp",
@@ -20565,28 +20565,28 @@
       "name": "io.github.aiveto/veto",
       "title": "veto",
       "description": "Turn OpenAPI services into tools an agent can call under your rules.",
-      "version": "0.1.12",
+      "version": "0.1.13",
       "url": "https://github.com/aiveto/veto",
       "remotes": [],
       "packages": [
         {
           "registryType": "oci",
-          "identifier": "ghcr.io/aiveto/veto:0.1.12",
+          "identifier": "ghcr.io/aiveto/veto:0.1.13",
           "transport": "stdio",
           "packageArguments": [
             "serve"
           ]
         }
       ],
-      "installCommand": "docker run -i --rm ghcr.io/aiveto/veto:0.1.12 serve",
+      "installCommand": "docker run -i --rm ghcr.io/aiveto/veto:0.1.13 serve",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-08T14:41:31.706203Z",
-      "updatedAt": "2026-10-08T14:41:31.706203Z",
+      "publishedAt": "2026-10-13T07:11:37.184464Z",
+      "updatedAt": "2026-10-13T07:11:37.184464Z",
       "websiteUrl": "https://github.com/aiveto/veto",
       "repository": {
         "url": "https://github.com/aiveto/veto",
@@ -23592,7 +23592,7 @@
       "name": "io.github.allxsmith/bestax-mcp",
       "title": "Bestax",
       "description": "Props, examples, CSS variables and Agent Skills for bestax-bulma React components (Bulma v1)",
-      "version": "1.14.7",
+      "version": "1.14.8",
       "url": "https://bestax.io/docs/guides/llms#mcp-server",
       "remotes": [],
       "packages": [
@@ -23600,7 +23600,7 @@
           "registryType": "npm",
           "identifier": "bestax-mcp",
           "transport": "stdio",
-          "version": "1.14.7",
+          "version": "1.14.8",
           "environmentVariables": [
             {
               "name": "BESTAX_MCP_NO_VERSION_CHECK",
@@ -23613,15 +23613,15 @@
           ]
         }
       ],
-      "installCommand": "BESTAX_MCP_NO_VERSION_CHECK=<value> BESTAX_MCP_PROJECT_DIR=<value> npx -y bestax-mcp@1.14.7",
+      "installCommand": "BESTAX_MCP_NO_VERSION_CHECK=<value> BESTAX_MCP_PROJECT_DIR=<value> npx -y bestax-mcp@1.14.8",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T23:57:31.861744Z",
-      "updatedAt": "2026-10-12T23:57:31.861744Z",
+      "publishedAt": "2026-10-13T06:36:39.613156Z",
+      "updatedAt": "2026-10-13T06:36:39.613156Z",
       "websiteUrl": "https://bestax.io/docs/guides/llms#mcp-server",
       "repository": {
         "url": "https://github.com/allxsmith/bestax",
@@ -24923,6 +24923,36 @@
         "https://raw.githubusercontent.com/ampres-ai/talamus/v1.1.3/docs/assets/talamus-mcp-icon.png"
       ],
       "iconUrl": "https://raw.githubusercontent.com/ampres-ai/talamus/v1.1.3/docs/assets/talamus-mcp-icon.png"
+    },
+    {
+      "slug": "io-github-amrito-kundu-llmscribe",
+      "name": "io.github.AMRITO-KUNDU/llmscribe",
+      "title": "LLMScribe",
+      "description": "Deterministic repo map, search and file reader for AI agents.",
+      "version": "1.2.1",
+      "url": "https://github.com/AMRITO-KUNDU/llmscribe",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "pypi",
+          "identifier": "llmscribe",
+          "transport": "stdio",
+          "version": "1.2.1"
+        }
+      ],
+      "installCommand": "uvx llmscribe@1.2.1",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T06:15:20.64335Z",
+      "updatedAt": "2026-10-13T06:15:20.64335Z",
+      "repository": {
+        "url": "https://github.com/AMRITO-KUNDU/llmscribe",
+        "source": "github"
+      }
     },
     {
       "slug": "io-github-amyodov-yet-another-agentic-chat",
@@ -28237,7 +28267,7 @@
       "name": "io.github.archestack/mcp",
       "title": "Archestack",
       "description": "Search, rank and compare open-source AI projects with Archestack's open data",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "url": "https://archestack.com/api/",
       "remotes": [],
       "packages": [
@@ -28245,18 +28275,18 @@
           "registryType": "npm",
           "identifier": "@archestack/mcp",
           "transport": "stdio",
-          "version": "0.1.3"
+          "version": "0.1.4"
         }
       ],
-      "installCommand": "npx -y @archestack/mcp@0.1.3",
+      "installCommand": "npx -y @archestack/mcp@0.1.4",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T05:10:10.314415Z",
-      "updatedAt": "2026-10-13T05:10:10.314415Z",
+      "publishedAt": "2026-10-13T06:48:50.36634Z",
+      "updatedAt": "2026-10-13T06:48:50.36634Z",
       "websiteUrl": "https://archestack.com/api/",
       "repository": {
         "url": "https://github.com/archestack/mcp",
@@ -28639,7 +28669,7 @@
       "name": "io.github.Arkanji/iwork-studio",
       "title": "iWork Studio",
       "description": "Create, edit, design and export Apple Numbers, Keynote and Pages files. Verified and Arabic-safe.",
-      "version": "2.6.0",
+      "version": "2.6.1",
       "url": "https://github.com/Arkanji/iwork-studio",
       "remotes": [],
       "packages": [
@@ -28647,7 +28677,7 @@
           "registryType": "pypi",
           "identifier": "iwork-studio",
           "transport": "stdio",
-          "version": "2.6.0",
+          "version": "2.6.1",
           "runtimeHint": "uvx",
           "environmentVariables": [
             {
@@ -28661,15 +28691,15 @@
           ]
         }
       ],
-      "installCommand": "IWORK_STUDIO_ROOTS=<value> IWORK_STUDIO_TOOLSETS=<value> uvx iwork-studio@2.6.0",
+      "installCommand": "IWORK_STUDIO_ROOTS=<value> IWORK_STUDIO_TOOLSETS=<value> uvx iwork-studio@2.6.1",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-04T21:32:04.425356Z",
-      "updatedAt": "2026-10-04T21:32:04.425356Z",
+      "publishedAt": "2026-10-13T07:42:59.425046Z",
+      "updatedAt": "2026-10-13T07:42:59.425046Z",
       "repository": {
         "url": "https://github.com/Arkanji/iwork-studio",
         "source": "github"
@@ -28837,6 +28867,37 @@
       }
     },
     {
+      "slug": "io-github-armornglory-faithfinder-mcp-server",
+      "name": "io.github.ArmorNGlory/faithfinder-mcp-server",
+      "title": "FaithFinder — Find a Church",
+      "description": "Find a church near you: 9,000+ US churches by city, ZIP, denomination, worship style, kids ministry",
+      "version": "2.0.0",
+      "url": "https://faithfinder.armornglory.com",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "npm",
+          "identifier": "faithfinder-mcp-server",
+          "transport": "stdio",
+          "version": "2.0.0"
+        }
+      ],
+      "installCommand": "npx -y faithfinder-mcp-server@2.0.0",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T08:03:48.828204Z",
+      "updatedAt": "2026-10-13T08:03:48.828204Z",
+      "websiteUrl": "https://faithfinder.armornglory.com",
+      "repository": {
+        "url": "https://github.com/ArmorNGlory/faithfinder-mcp-server",
+        "source": "github"
+      }
+    },
+    {
       "slug": "io-github-arnaugonzalez-memory-boost",
       "name": "io.github.arnaugonzalez/memory-boost",
       "title": "memory-boost",
@@ -28993,7 +29054,7 @@
       "name": "io.github.Artexis10/exomem",
       "title": "Exomem",
       "description": "Local Markdown/Obsidian knowledge substrate for MCP agents with governed memory and hybrid search.",
-      "version": "0.116.0",
+      "version": "0.117.0",
       "url": "https://substratesystems.io/exomem",
       "remotes": [],
       "packages": [
@@ -29001,10 +29062,10 @@
           "registryType": "pypi",
           "identifier": "exomem",
           "transport": "stdio",
-          "version": "0.116.0"
+          "version": "0.117.0"
         }
       ],
-      "installCommand": "uvx exomem@0.116.0",
+      "installCommand": "uvx exomem@0.117.0",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
@@ -29012,8 +29073,8 @@
         "docs-knowledge"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T00:54:43.231098Z",
-      "updatedAt": "2026-10-13T00:54:43.231098Z",
+      "publishedAt": "2026-10-13T06:38:38.216285Z",
+      "updatedAt": "2026-10-13T06:38:38.216285Z",
       "websiteUrl": "https://substratesystems.io/exomem",
       "repository": {
         "url": "https://github.com/Artexis10/exomem",
@@ -34152,7 +34213,7 @@
       "name": "io.github.BargLabs/dunstan",
       "title": "Dunstan",
       "description": "Checks a coding agent's handback against the pull request's GitHub record. No model decides.",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "url": "https://barglabs.ai/dunstan",
       "remotes": [],
       "packages": [
@@ -34160,7 +34221,7 @@
           "registryType": "npm",
           "identifier": "dunstan",
           "transport": "stdio",
-          "version": "0.1.6",
+          "version": "0.1.7",
           "environmentVariables": [
             {
               "name": "GITHUB_TOKEN",
@@ -34172,7 +34233,7 @@
           ]
         }
       ],
-      "installCommand": "GITHUB_TOKEN=<value> npx -y dunstan@0.1.6 mcp",
+      "installCommand": "GITHUB_TOKEN=<value> npx -y dunstan@0.1.7 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
@@ -34180,8 +34241,8 @@
         "ai-llm"
       ],
       "status": "active",
-      "publishedAt": "2026-10-09T08:37:37.606933Z",
-      "updatedAt": "2026-10-09T08:37:37.606933Z",
+      "publishedAt": "2026-10-13T06:35:32.374287Z",
+      "updatedAt": "2026-10-13T06:35:32.374287Z",
       "websiteUrl": "https://barglabs.ai/dunstan",
       "repository": {
         "url": "https://github.com/BargLabs/dunstan",
@@ -44969,6 +45030,56 @@
       }
     },
     {
+      "slug": "io-github-cnkang-qdrant-memory",
+      "name": "io.github.cnkang/qdrant-memory",
+      "title": "Qdrant Memory",
+      "description": "Persistent scoped Qdrant memory for agents, through four explicit stdio MCP tools.",
+      "version": "0.1.0",
+      "url": "https://github.com/cnkang/qdrant-memory-mcp",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "pypi",
+          "identifier": "qdrant-memory-mcp",
+          "transport": "stdio",
+          "version": "0.1.0",
+          "runtimeHint": "uvx",
+          "environmentVariables": [
+            {
+              "name": "QDRANT_URL",
+              "description": "Optional remote Qdrant endpoint when configured for server/cloud mode."
+            },
+            {
+              "name": "QDRANT_API_KEY",
+              "description": "Optional Qdrant credential for configured remote storage."
+            },
+            {
+              "name": "EMBEDDING_API_KEY",
+              "description": "Optional credential for the configured embedding provider."
+            }
+          ],
+          "packageArguments": [
+            "mcp"
+          ],
+          "registryBaseUrl": "https://pypi.org"
+        }
+      ],
+      "installCommand": "QDRANT_URL=<value> QDRANT_API_KEY=<value> EMBEDDING_API_KEY=<value> uvx qdrant-memory-mcp@0.1.0 mcp",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "search"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T06:37:46.387395Z",
+      "updatedAt": "2026-10-13T06:37:46.387395Z",
+      "repository": {
+        "url": "https://github.com/cnkang/qdrant-memory-mcp",
+        "source": "github"
+      }
+    },
+    {
       "slug": "io-github-cnohall-emptyinbox",
       "name": "io.github.cnohall/emptyinbox",
       "title": "EmptyInbox",
@@ -52694,25 +52805,25 @@
       "name": "io.github.DenRakEiw/scumble",
       "title": "Scumble",
       "description": "Agents drive a layered AI inpainting editor: select by text, inpaint, mask, layers, PSD/ORA export.",
-      "version": "0.1.46",
+      "version": "0.1.47",
       "url": "https://github.com/DenRakEiw/scumble/blob/main/docs/MCP.md",
       "remotes": [],
       "packages": [
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/DenRakEiw/scumble/releases/download/v0.1.46/scumble-0.1.46.mcpb",
+          "identifier": "https://github.com/DenRakEiw/scumble/releases/download/v0.1.47/scumble-0.1.47.mcpb",
           "transport": "stdio"
         }
       ],
-      "installCommand": "mcpb install https://github.com/DenRakEiw/scumble/releases/download/v0.1.46/scumble-0.1.46.mcpb",
+      "installCommand": "mcpb install https://github.com/DenRakEiw/scumble/releases/download/v0.1.47/scumble-0.1.47.mcpb",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-11T12:13:17.0188Z",
-      "updatedAt": "2026-10-11T12:13:17.0188Z",
+      "publishedAt": "2026-10-13T08:37:45.511456Z",
+      "updatedAt": "2026-10-13T08:37:45.511456Z",
       "websiteUrl": "https://github.com/DenRakEiw/scumble/blob/main/docs/MCP.md",
       "repository": {
         "url": "https://github.com/DenRakEiw/scumble",
@@ -53703,6 +53814,55 @@
       "websiteUrl": "https://devrajsinh-jhala.github.io/NPM-Vibe-check/",
       "repository": {
         "url": "https://github.com/Devrajsinh-Jhala/NPM-Vibe-check",
+        "source": "github"
+      }
+    },
+    {
+      "slug": "io-github-devstephenke-sys-github-cicd",
+      "name": "io.github.devstephenke-sys/github-cicd",
+      "title": "GitHub CI/CD MCP Server",
+      "description": "GitHub CI/CD MCP server with 70 tools for repos, PRs, Actions, deployments, billing, and more.",
+      "version": "1.2.2",
+      "url": "https://github.com/devstephenke-sys/Github-Free-MCPs",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "npm",
+          "identifier": "@kinus/github-cicd-mcp",
+          "transport": "stdio",
+          "version": "1.2.2",
+          "environmentVariables": [
+            {
+              "name": "GITHUB_TOKEN",
+              "description": "GitHub personal access token for authentication",
+              "required": true
+            },
+            {
+              "name": "GITHUB_HOST",
+              "description": "GitHub Enterprise hostname (optional, defaults to github.com)"
+            },
+            {
+              "name": "GITHUB_API_URL",
+              "description": "GitHub Enterprise REST API base URL (optional)"
+            },
+            {
+              "name": "GITHUB_GRAPHQL_URL",
+              "description": "GitHub Enterprise GraphQL endpoint (optional)"
+            }
+          ]
+        }
+      ],
+      "installCommand": "GITHUB_TOKEN=<value> GITHUB_HOST=<value> GITHUB_API_URL=<value> GITHUB_GRAPHQL_URL=<value> npx -y @kinus/github-cicd-mcp@1.2.2",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T08:13:56.023997Z",
+      "updatedAt": "2026-10-13T08:13:56.023997Z",
+      "repository": {
+        "url": "https://github.com/devstephenke-sys/Github-Free-MCPs",
         "source": "github"
       }
     },
@@ -67336,7 +67496,7 @@
       "name": "io.github.FunplayAI/funplay-cocos-mcp",
       "title": "Funplay Cocos MCP",
       "description": "stdio bridge for the local Cocos Creator Editor MCP server from FunplayAI/funplay-cocos-mcp.",
-      "version": "0.6.6",
+      "version": "0.6.7",
       "url": "https://github.com/FunplayAI/funplay-cocos-mcp",
       "remotes": [],
       "packages": [
@@ -67344,7 +67504,7 @@
           "registryType": "npm",
           "identifier": "funplay-cocos-mcp",
           "transport": "stdio",
-          "version": "0.6.6",
+          "version": "0.6.7",
           "environmentVariables": [
             {
               "name": "FUNPLAY_COCOS_MCP_URL",
@@ -67357,15 +67517,15 @@
           ]
         }
       ],
-      "installCommand": "FUNPLAY_COCOS_MCP_URL=<value> FUNPLAY_COCOS_MCP_TIMEOUT_SECONDS=<value> npx -y funplay-cocos-mcp@0.6.6",
+      "installCommand": "FUNPLAY_COCOS_MCP_URL=<value> FUNPLAY_COCOS_MCP_TIMEOUT_SECONDS=<value> npx -y funplay-cocos-mcp@0.6.7",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-10T03:44:54.633663Z",
-      "updatedAt": "2026-10-10T03:44:54.633663Z",
+      "publishedAt": "2026-10-13T06:25:30.032033Z",
+      "updatedAt": "2026-10-13T06:25:30.032033Z",
       "repository": {
         "url": "https://github.com/FunplayAI/funplay-cocos-mcp",
         "source": "github"
@@ -69075,7 +69235,7 @@
       "name": "io.github.gautamvarmadatla/mcpsafetywarden",
       "title": "MCP Safety Warden",
       "description": "MCP proxy adding security scanning, behavioral profiling, risk gating, and safe tool call execution.",
-      "version": "1.4.30",
+      "version": "1.4.31",
       "url": "https://github.com/gautamvarmadatla/mcpsafetywarden",
       "remotes": [],
       "packages": [
@@ -69083,18 +69243,18 @@
           "registryType": "pypi",
           "identifier": "mcpsafetywarden",
           "transport": "stdio",
-          "version": "1.4.30"
+          "version": "1.4.31"
         }
       ],
-      "installCommand": "uvx mcpsafetywarden@1.4.30",
+      "installCommand": "uvx mcpsafetywarden@1.4.31",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T04:40:16.494448Z",
-      "updatedAt": "2026-10-13T04:40:16.494448Z",
+      "publishedAt": "2026-10-13T09:09:43.877837Z",
+      "updatedAt": "2026-10-13T09:09:43.877837Z",
       "repository": {
         "url": "https://github.com/gautamvarmadatla/mcpsafetywarden",
         "source": "github"
@@ -70115,7 +70275,7 @@
       "name": "io.github.getmcpm/cli",
       "title": "mcpm",
       "description": "MCP security guard + package manager: trust-scored installs, blocks prompt injection and rug-pulls.",
-      "version": "0.47.2",
+      "version": "0.47.3",
       "url": "https://github.com/getmcpm/cli",
       "remotes": [],
       "packages": [
@@ -70123,22 +70283,22 @@
           "registryType": "npm",
           "identifier": "@getmcpm/cli",
           "transport": "stdio",
-          "version": "0.47.2",
+          "version": "0.47.3",
           "runtimeHint": "npx",
           "runtimeArguments": [
             "serve"
           ]
         }
       ],
-      "installCommand": "npx @getmcpm/cli@0.47.2 serve",
+      "installCommand": "npx @getmcpm/cli@0.47.3 serve",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-11T18:12:55.563751Z",
-      "updatedAt": "2026-10-11T18:12:55.563751Z",
+      "publishedAt": "2026-10-13T08:39:55.151488Z",
+      "updatedAt": "2026-10-13T08:39:55.151488Z",
       "websiteUrl": "https://github.com/getmcpm/cli",
       "repository": {
         "url": "https://github.com/getmcpm/cli",
@@ -72001,7 +72161,7 @@
       "name": "io.github.goyohan0611-png/graph-mind",
       "title": "Graph-MIND",
       "description": "Local-first memory for Claude Code, Codex and Claude Desktop, kept verbatim on your own PC.",
-      "version": "0.6.4",
+      "version": "0.7.0",
       "url": "https://github.com/goyohan0611-png/graph-mind",
       "remotes": [],
       "packages": [
@@ -72009,18 +72169,18 @@
           "registryType": "pypi",
           "identifier": "graph-mind-memory",
           "transport": "stdio",
-          "version": "0.6.4"
+          "version": "0.7.0"
         }
       ],
-      "installCommand": "uvx graph-mind-memory@0.6.4",
+      "installCommand": "uvx graph-mind-memory@0.7.0",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T08:04:47.963917Z",
-      "updatedAt": "2026-10-12T08:04:47.963917Z",
+      "publishedAt": "2026-10-13T06:46:32.986756Z",
+      "updatedAt": "2026-10-13T06:46:32.986756Z",
       "repository": {
         "url": "https://github.com/goyohan0611-png/graph-mind",
         "source": "github"
@@ -74266,7 +74426,7 @@
       "name": "io.github.hamza-aziz-ai/codex-claude-council",
       "title": "Codex–Claude Council",
       "description": "ChatGPT (Codex CLI) and Claude (Claude Code) discuss until they agree, on your own subscriptions.",
-      "version": "0.11.9",
+      "version": "0.13.2",
       "url": "https://github.com/hamza-aziz-ai/codex-claude-council#readme",
       "remotes": [],
       "packages": [
@@ -74274,21 +74434,21 @@
           "registryType": "npm",
           "identifier": "codex-claude-council",
           "transport": "stdio",
-          "version": "0.11.9",
+          "version": "0.13.2",
           "packageArguments": [
             "mcp"
           ]
         }
       ],
-      "installCommand": "npx -y codex-claude-council@0.11.9 mcp",
+      "installCommand": "npx -y codex-claude-council@0.13.2 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T04:53:10.933932Z",
-      "updatedAt": "2026-10-13T04:53:10.933932Z",
+      "publishedAt": "2026-10-13T08:53:25.822251Z",
+      "updatedAt": "2026-10-13T08:53:25.822251Z",
       "websiteUrl": "https://github.com/hamza-aziz-ai/codex-claude-council#readme",
       "repository": {
         "url": "https://github.com/hamza-aziz-ai/codex-claude-council",
@@ -74631,6 +74791,47 @@
       "repository": {
         "url": "https://github.com/hanoak/unsplash-mcp-server",
         "source": "github"
+      }
+    },
+    {
+      "slug": "io-github-hanochzhu-codeagent-memory",
+      "name": "io.github.HanochZhu/codeagent-memory",
+      "title": "codeagent-memory",
+      "description": "Local code graph and solution memory for coding agents via CLI and MCP.",
+      "version": "0.1.3",
+      "url": "https://github.com/HanochZhu/codeagent_memory",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "oci",
+          "identifier": "ghcr.io/hanochzhu/codeagent-memory:0.1.3",
+          "transport": "stdio",
+          "runtimeHint": "docker",
+          "runtimeArguments": [
+            "run",
+            "-i",
+            "--rm",
+            "-v",
+            "{workspace}:/work",
+            "-w",
+            "/work"
+          ]
+        }
+      ],
+      "installCommand": "docker run -i --rm ghcr.io/hanochzhu/codeagent-memory:0.1.3 run -i --rm -v {workspace}:/work -w /work",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T07:00:19.039086Z",
+      "updatedAt": "2026-10-13T07:00:19.039086Z",
+      "websiteUrl": "https://github.com/HanochZhu/codeagent_memory",
+      "repository": {
+        "url": "https://github.com/HanochZhu/codeagent_memory",
+        "source": "github",
+        "id": "1368492125"
       }
     },
     {
@@ -80121,7 +80322,7 @@
       "name": "io.github.igormel81/genealogy-mcp",
       "title": "Genealogy research toolkit",
       "description": "Family history research: 114 archives and databases, name variants, calendars, kinship, evidence",
-      "version": "0.4.1",
+      "version": "0.5.0",
       "url": "https://github.com/igormel81/genealogy-mcp",
       "remotes": [],
       "packages": [
@@ -80129,20 +80330,20 @@
           "registryType": "pypi",
           "identifier": "genealogy-mcp",
           "transport": "stdio",
-          "version": "0.4.1",
+          "version": "0.5.0",
           "runtimeHint": "uvx",
           "registryBaseUrl": "https://pypi.org"
         }
       ],
-      "installCommand": "uvx genealogy-mcp@0.4.1",
+      "installCommand": "uvx genealogy-mcp@0.5.0",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T13:54:43.261954Z",
-      "updatedAt": "2026-10-12T13:54:43.261954Z",
+      "publishedAt": "2026-10-13T08:23:21.688012Z",
+      "updatedAt": "2026-10-13T08:23:21.688012Z",
       "websiteUrl": "https://github.com/igormel81/genealogy-mcp",
       "repository": {
         "url": "https://github.com/igormel81/genealogy-mcp",
@@ -82322,25 +82523,25 @@
       "name": "io.github.Innoprovn/vn-revit-mcp",
       "title": "vn-revit-mcp",
       "description": "AI drives Autodesk Revit 2025+: queries, QA-QC, CAD-to-model, rebar, sheets.",
-      "version": "0.3.2",
+      "version": "0.7.3",
       "url": "https://github.com/Innoprovn/vn-revit-mcp",
       "remotes": [],
       "packages": [
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/Innoprovn/vn-revit-mcp/releases/download/v0.3.2/vn-revit-mcp-0.3.2.mcpb",
+          "identifier": "https://github.com/Innoprovn/vn-revit-mcp/releases/download/v0.7.3/vn-revit-mcp-0.7.3.mcpb",
           "transport": "stdio"
         }
       ],
-      "installCommand": "mcpb install https://github.com/Innoprovn/vn-revit-mcp/releases/download/v0.3.2/vn-revit-mcp-0.3.2.mcpb",
+      "installCommand": "mcpb install https://github.com/Innoprovn/vn-revit-mcp/releases/download/v0.7.3/vn-revit-mcp-0.7.3.mcpb",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T03:46:32.087784Z",
-      "updatedAt": "2026-10-13T03:46:32.087784Z",
+      "publishedAt": "2026-10-13T08:52:54.763997Z",
+      "updatedAt": "2026-10-13T08:52:54.763997Z",
       "repository": {
         "url": "https://github.com/Innoprovn/vn-revit-mcp",
         "source": "github"
@@ -87291,7 +87492,7 @@
       "name": "io.github.jgravelle/jcodemunch-mcp",
       "title": "jCodemunch MCP",
       "description": "Token-efficient code exploration via tree-sitter AST parsing. 70+ languages, 86-99% token savings.",
-      "version": "1.108.353",
+      "version": "1.108.354",
       "url": "https://github.com/jgravelle/jcodemunch-mcp",
       "remotes": [],
       "packages": [
@@ -87299,18 +87500,18 @@
           "registryType": "pypi",
           "identifier": "jcodemunch-mcp",
           "transport": "stdio",
-          "version": "1.108.353"
+          "version": "1.108.354"
         }
       ],
-      "installCommand": "uvx jcodemunch-mcp@1.108.353",
+      "installCommand": "uvx jcodemunch-mcp@1.108.354",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T04:49:12.570429Z",
-      "updatedAt": "2026-10-13T04:49:12.570429Z",
+      "publishedAt": "2026-10-13T07:11:45.003921Z",
+      "updatedAt": "2026-10-13T07:11:45.003921Z",
       "repository": {
         "url": "https://github.com/jgravelle/jcodemunch-mcp",
         "source": "github"
@@ -88143,6 +88344,53 @@
         "url": "https://github.com/jjohnsen/jaj-dataverse-dev-mcp",
         "source": "github",
         "id": "1378110890"
+      }
+    },
+    {
+      "slug": "io-github-jkotzker-firesidefm-mcp-server",
+      "name": "io.github.jkotzker/firesidefm-mcp-server",
+      "title": "Fireside.fm (unofficial)",
+      "description": "Unofficial server for the Fireside.fm podcast API: podcasts, episodes, downloads and drafts.",
+      "version": "0.1.0",
+      "url": "https://github.com/jkotzker/firesidefm-mcp-server",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "npm",
+          "identifier": "firesidefm-mcp-server",
+          "transport": "stdio",
+          "version": "0.1.0",
+          "runtimeHint": "npx",
+          "environmentVariables": [
+            {
+              "name": "FIRESIDE_API_TOKEN",
+              "description": "Fireside API key, created at https://app.fireside.fm/api_tokens. A Read Only key offers only the read tools.",
+              "required": true
+            },
+            {
+              "name": "FIRESIDE_PODCAST",
+              "description": "Token or slug of the podcast to use when a request does not name one."
+            },
+            {
+              "name": "FIRESIDE_READ_ONLY",
+              "description": "Set to true to offer only the read tools, even with a Read/Write key."
+            }
+          ],
+          "registryBaseUrl": "https://registry.npmjs.org"
+        }
+      ],
+      "installCommand": "FIRESIDE_API_TOKEN=<value> FIRESIDE_PODCAST=<value> FIRESIDE_READ_ONLY=<value> npx firesidefm-mcp-server@0.1.0",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T06:16:17.857913Z",
+      "updatedAt": "2026-10-13T06:16:17.857913Z",
+      "repository": {
+        "url": "https://github.com/jkotzker/firesidefm-mcp-server",
+        "source": "github"
       }
     },
     {
@@ -90095,7 +90343,7 @@
       "name": "io.github.JoviDeCroock/pracht",
       "title": "pracht dev-mcp",
       "description": "Inspect, verify, diff, and scaffold a pracht app's routes, API, and capabilities from its app graph.",
-      "version": "1.16.0",
+      "version": "1.16.1",
       "url": "https://pracht.resynapse.dev/docs/coding-agents",
       "remotes": [],
       "packages": [
@@ -90103,22 +90351,22 @@
           "registryType": "npm",
           "identifier": "@pracht/cli",
           "transport": "stdio",
-          "version": "1.16.0",
+          "version": "1.16.1",
           "packageArguments": [
             "dev-mcp"
           ],
           "registryBaseUrl": "https://registry.npmjs.org"
         }
       ],
-      "installCommand": "npx -y @pracht/cli@1.16.0 dev-mcp",
+      "installCommand": "npx -y @pracht/cli@1.16.1 dev-mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T06:03:08.167724Z",
-      "updatedAt": "2026-10-12T06:03:08.167724Z",
+      "publishedAt": "2026-10-13T06:52:28.915141Z",
+      "updatedAt": "2026-10-13T06:52:28.915141Z",
       "websiteUrl": "https://pracht.resynapse.dev/docs/coding-agents",
       "repository": {
         "url": "https://github.com/JoviDeCroock/pracht",
@@ -93420,7 +93668,7 @@
       "name": "io.github.Keesan12/martin-loop",
       "title": "Martin Loop",
       "description": "One system around coding agents to run, verify, recover, and hand off software work.",
-      "version": "0.8.2",
+      "version": "0.8.3",
       "url": "https://github.com/Keesan12/martin-loop",
       "remotes": [],
       "packages": [
@@ -93428,18 +93676,18 @@
           "registryType": "npm",
           "identifier": "@martinloop/mcp",
           "transport": "stdio",
-          "version": "0.8.2"
+          "version": "0.8.3"
         }
       ],
-      "installCommand": "npx -y @martinloop/mcp@0.8.2",
+      "installCommand": "npx -y @martinloop/mcp@0.8.3",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-08T13:46:56.194519Z",
-      "updatedAt": "2026-10-08T13:46:56.194519Z",
+      "publishedAt": "2026-10-13T08:38:06.854014Z",
+      "updatedAt": "2026-10-13T08:38:06.854014Z",
       "repository": {
         "url": "https://github.com/Keesan12/martin-loop",
         "source": "github"
@@ -97245,7 +97493,7 @@
       "name": "io.github.Kungie/gut",
       "title": "gut",
       "description": "Judgment calls on small, cheap models: is this spam, which team, how urgent. YES, NO or UNSURE.",
-      "version": "0.8.1",
+      "version": "0.8.2",
       "url": "https://gutpy.dev/docs/mcp.html",
       "remotes": [],
       "packages": [
@@ -97253,7 +97501,7 @@
           "registryType": "pypi",
           "identifier": "gutfeel-mcp",
           "transport": "stdio",
-          "version": "0.8.1",
+          "version": "0.8.2",
           "runtimeHint": "uvx",
           "environmentVariables": [
             {
@@ -97280,15 +97528,15 @@
           "registryBaseUrl": "https://pypi.org"
         }
       ],
-      "installCommand": "TYPESAFE_API_KEY=<value> GUT_BACKEND=<value> GUT_MODEL=<value> GUT_BASE_URL=<value> OPENROUTER_API_KEY=<value> uvx gutfeel-mcp@0.8.1",
+      "installCommand": "TYPESAFE_API_KEY=<value> GUT_BACKEND=<value> GUT_MODEL=<value> GUT_BASE_URL=<value> OPENROUTER_API_KEY=<value> uvx gutfeel-mcp@0.8.2",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-07T14:30:49.05727Z",
-      "updatedAt": "2026-10-07T14:30:49.05727Z",
+      "publishedAt": "2026-10-13T07:22:45.252754Z",
+      "updatedAt": "2026-10-13T07:22:45.252754Z",
       "websiteUrl": "https://gutpy.dev/docs/mcp.html",
       "repository": {
         "url": "https://github.com/Kungie/gut",
@@ -99313,35 +99561,6 @@
       "updatedAt": "2026-08-05T02:21:07.123081Z",
       "repository": {
         "url": "https://github.com/LeonardoCesca/neuroflow",
-        "source": "github"
-      }
-    },
-    {
-      "slug": "io-github-levanmamulashvili911-byte-cosmic-ears-mcp",
-      "name": "io.github.levanmamulashvili911-byte/cosmic-ears-mcp",
-      "title": "Cosmic Ears MCP",
-      "description": "Real satellite audio, spectrograms and provenance through MCP.",
-      "version": "0.2.0",
-      "url": "https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp",
-      "remotes": [],
-      "packages": [
-        {
-          "registryType": "mcpb",
-          "identifier": "https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp/releases/download/v0.2.0/cosmic-ears-mcp-0.2.0.mcpb",
-          "transport": "stdio"
-        }
-      ],
-      "installCommand": "mcpb install https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp/releases/download/v0.2.0/cosmic-ears-mcp-0.2.0.mcpb",
-      "installKind": "package",
-      "category": "dev-tools",
-      "categories": [
-        "dev-tools"
-      ],
-      "status": "active",
-      "publishedAt": "2026-10-12T21:27:36.903941Z",
-      "updatedAt": "2026-10-12T21:27:36.903941Z",
-      "repository": {
-        "url": "https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp",
         "source": "github"
       }
     },
@@ -101625,7 +101844,7 @@
       "name": "io.github.longsizhuo/openinvest",
       "title": "openInvest",
       "description": "Investment runtime for AI agents — LLM investment committee, portfolio ledger, decision accounting",
-      "version": "0.41.2",
+      "version": "0.41.3",
       "url": "https://github.com/longsizhuo/openInvest",
       "remotes": [],
       "packages": [
@@ -101633,7 +101852,7 @@
           "registryType": "pypi",
           "identifier": "openinvest",
           "transport": "stdio",
-          "version": "0.41.2",
+          "version": "0.41.3",
           "runtimeHint": "uvx",
           "environmentVariables": [
             {
@@ -101646,7 +101865,7 @@
           ]
         }
       ],
-      "installCommand": "INVEST_HOME=<value> uvx openinvest@0.41.2 mcp",
+      "installCommand": "INVEST_HOME=<value> uvx openinvest@0.41.3 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
@@ -101654,8 +101873,8 @@
         "payments-finance"
       ],
       "status": "active",
-      "publishedAt": "2026-10-11T12:36:18.951005Z",
-      "updatedAt": "2026-10-11T12:36:18.951005Z",
+      "publishedAt": "2026-10-13T06:57:58.124074Z",
+      "updatedAt": "2026-10-13T06:57:58.124074Z",
       "repository": {
         "url": "https://github.com/longsizhuo/openInvest",
         "source": "github"
@@ -103914,13 +104133,13 @@
       "name": "io.github.M0Rf30/yap",
       "title": "YAP — Yet Another Packager",
       "description": "Build native Linux packages (.deb/.rpm/.apk/.pkg.tar.zst) from a single PKGBUILD via MCP.",
-      "version": "2.7.1",
+      "version": "2.7.2",
       "url": "https://github.com/M0Rf30/yap",
       "remotes": [],
       "packages": [
         {
           "registryType": "oci",
-          "identifier": "ghcr.io/m0rf30/yap-mcp:2.7.1",
+          "identifier": "ghcr.io/m0rf30/yap-mcp:2.7.2",
           "transport": "stdio",
           "environmentVariables": [
             {
@@ -103930,15 +104149,15 @@
           ]
         }
       ],
-      "installCommand": "YAP_VERBOSE=<value> docker run -i --rm ghcr.io/m0rf30/yap-mcp:2.7.1",
+      "installCommand": "YAP_VERBOSE=<value> docker run -i --rm ghcr.io/m0rf30/yap-mcp:2.7.2",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-05T14:40:43.163773Z",
-      "updatedAt": "2026-10-05T14:40:43.163773Z",
+      "publishedAt": "2026-10-13T09:04:48.84645Z",
+      "updatedAt": "2026-10-13T09:04:48.84645Z",
       "websiteUrl": "https://github.com/M0Rf30/yap",
       "repository": {
         "url": "https://github.com/M0Rf30/yap",
@@ -113050,33 +113269,33 @@
       }
     },
     {
-      "slug": "io-github-mlorentedev-pdf-modifier-mcp",
-      "name": "io.github.mlorentedev/pdf-modifier-mcp",
+      "slug": "io-github-mlorentedev-pdf-modifier",
+      "name": "io.github.mlorentedev/pdf-modifier",
       "title": "PDF Modifier",
       "description": "Modify PDF text, replace with regex, and analyze layout while preserving fonts.",
-      "version": "1.6.0",
-      "url": "https://github.com/mlorentedev/pdf-modifier-mcp",
+      "version": "1.9.2",
+      "url": "https://github.com/mlorentedev/pdf-modifier",
       "remotes": [],
       "packages": [
         {
           "registryType": "pypi",
-          "identifier": "pdf-modifier-mcp",
+          "identifier": "pdf-modifier",
           "transport": "stdio",
-          "version": "1.6.0",
+          "version": "1.9.2",
           "runtimeHint": "uvx"
         }
       ],
-      "installCommand": "uvx pdf-modifier-mcp@1.6.0",
+      "installCommand": "uvx pdf-modifier@1.9.2",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-06-24T02:25:54.313645Z",
-      "updatedAt": "2026-06-24T02:25:54.313645Z",
+      "publishedAt": "2026-10-13T06:13:28.734776Z",
+      "updatedAt": "2026-10-13T06:13:28.734776Z",
       "repository": {
-        "url": "https://github.com/mlorentedev/pdf-modifier-mcp",
+        "url": "https://github.com/mlorentedev/pdf-modifier",
         "source": "github"
       }
     },
@@ -114006,6 +114225,38 @@
       "websiteUrl": "https://pypi.org/project/karst/",
       "repository": {
         "url": "https://github.com/Moin105/upgraded-garbanzo",
+        "source": "github"
+      }
+    },
+    {
+      "slug": "io-github-mola-maker-cad2gis-agent",
+      "name": "io.github.Mola-maker/cad2gis-agent",
+      "title": "CAD2GIS",
+      "description": "DWG/DXF to GIS, QGIS delivery and source-preserving CAD tools with validation evidence.",
+      "version": "0.8.0",
+      "url": "https://cad2gis.molamaker.cn/",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "mcpb",
+          "identifier": "https://github.com/Mola-maker/CAD2GIS/releases/download/v0.8.0/cad2gis-agent-0.8.0.mcpb",
+          "transport": "stdio",
+          "version": "0.8.0"
+        }
+      ],
+      "installCommand": "mcpb install https://github.com/Mola-maker/CAD2GIS/releases/download/v0.8.0/cad2gis-agent-0.8.0.mcpb",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai-llm"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T06:05:32.152729Z",
+      "updatedAt": "2026-10-13T06:05:32.152729Z",
+      "websiteUrl": "https://cad2gis.molamaker.cn/",
+      "repository": {
+        "url": "https://github.com/Mola-maker/CAD2GIS",
         "source": "github"
       }
     },
@@ -126511,7 +126762,7 @@
       "name": "io.github.omarmhaimdat/pepe",
       "title": "pepe",
       "description": "Load-test a URL, ping it by phase, ramp to find the capacity, compare runs: JSON reports, guardrails",
-      "version": "0.39.1",
+      "version": "0.40.0",
       "url": "https://pepe.mhaimdat.com/docs/agents.html",
       "remotes": [],
       "packages": [
@@ -126519,7 +126770,7 @@
           "registryType": "pypi",
           "identifier": "pepe-http",
           "transport": "stdio",
-          "version": "0.39.1",
+          "version": "0.40.0",
           "runtimeHint": "uvx",
           "packageArguments": [
             "mcp"
@@ -126528,7 +126779,7 @@
         },
         {
           "registryType": "oci",
-          "identifier": "ghcr.io/omarmhaimdat/pepe:0.39.1",
+          "identifier": "ghcr.io/omarmhaimdat/pepe:0.40.0",
           "transport": "stdio",
           "packageArguments": [
             "mcp"
@@ -126538,15 +126789,15 @@
           ]
         }
       ],
-      "installCommand": "uvx pepe-http@0.39.1 mcp",
+      "installCommand": "uvx pepe-http@0.40.0 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T17:25:41.555249Z",
-      "updatedAt": "2026-10-12T17:25:41.555249Z",
+      "publishedAt": "2026-10-13T06:39:29.980722Z",
+      "updatedAt": "2026-10-13T06:39:29.980722Z",
       "websiteUrl": "https://pepe.mhaimdat.com/docs/agents.html",
       "repository": {
         "url": "https://github.com/omarmhaimdat/pepe",
@@ -127606,7 +127857,7 @@
       "name": "io.github.OpenInterpretability/ekbasis",
       "title": "Ekbasis",
       "description": "Foresee what git commands and multi-step changes will do, as calibrated probabilities",
-      "version": "0.1.29",
+      "version": "0.1.30",
       "url": "https://openinterp.org/ekbasis",
       "remotes": [],
       "packages": [
@@ -127614,7 +127865,7 @@
           "registryType": "pypi",
           "identifier": "ekbasis",
           "transport": "stdio",
-          "version": "0.1.29",
+          "version": "0.1.30",
           "runtimeHint": "uvx",
           "environmentVariables": [
             {
@@ -127636,15 +127887,15 @@
           "registryBaseUrl": "https://pypi.org"
         }
       ],
-      "installCommand": "EKBASIS_URL=<value> EKBASIS_API_KEY=<value> uvx ekbasis@0.1.29 >=3.10 mcp>=1.2 mcp",
+      "installCommand": "EKBASIS_URL=<value> EKBASIS_API_KEY=<value> uvx ekbasis@0.1.30 >=3.10 mcp>=1.2 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T02:23:08.68463Z",
-      "updatedAt": "2026-10-13T02:23:08.68463Z",
+      "publishedAt": "2026-10-13T07:54:35.247869Z",
+      "updatedAt": "2026-10-13T07:54:35.247869Z",
       "websiteUrl": "https://openinterp.org/ekbasis",
       "repository": {
         "url": "https://github.com/OpenInterpretability/ekbasis",
@@ -127855,7 +128106,7 @@
       "name": "io.github.OpenOSINT/openosint",
       "title": "OpenOSINT",
       "description": "AI-powered OSINT agent & MCP server. 21 tools: email, breach, IP, WHOIS, DNS, Shodan, GitHub & more.",
-      "version": "2.34.0",
+      "version": "2.35.0",
       "url": "https://openosint.tech",
       "remotes": [],
       "packages": [
@@ -127863,7 +128114,7 @@
           "registryType": "pypi",
           "identifier": "openosint",
           "transport": "stdio",
-          "version": "2.34.0",
+          "version": "2.35.0",
           "environmentVariables": [
             {
               "name": "ANTHROPIC_API_KEY",
@@ -127889,15 +128140,15 @@
           ]
         }
       ],
-      "installCommand": "ANTHROPIC_API_KEY=<value> HIBP_API_KEY=<value> IPINFO_TOKEN=<value> IP2LOCATION_API_KEY=<value> ABUSEIPDB_API_KEY=<value> uvx openosint@2.34.0",
+      "installCommand": "ANTHROPIC_API_KEY=<value> HIBP_API_KEY=<value> IPINFO_TOKEN=<value> IP2LOCATION_API_KEY=<value> ABUSEIPDB_API_KEY=<value> uvx openosint@2.35.0",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-11T16:35:01.542629Z",
-      "updatedAt": "2026-10-11T16:35:01.542629Z",
+      "publishedAt": "2026-10-13T06:29:28.639114Z",
+      "updatedAt": "2026-10-13T06:29:28.639114Z",
       "websiteUrl": "https://openosint.tech",
       "repository": {
         "url": "https://github.com/OpenOSINT/OpenOSINT",
@@ -127946,7 +128197,7 @@
       "name": "io.github.openreadout/openreadout",
       "title": "OpenReadout",
       "description": "Read raw lab-instrument files offline: metadata, previews, integrity checks, open-format export.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "url": "https://openreadout.github.io/openreadout/",
       "remotes": [],
       "packages": [
@@ -127954,7 +128205,7 @@
           "registryType": "npm",
           "identifier": "openreadout",
           "transport": "stdio",
-          "version": "0.2.0",
+          "version": "0.3.0",
           "runtimeHint": "npx",
           "packageArguments": [
             "mcp"
@@ -127962,39 +128213,39 @@
         },
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.2.0/openreadout-mcp-aarch64-apple-darwin.mcpb",
+          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.3.0/openreadout-mcp-aarch64-apple-darwin.mcpb",
           "transport": "stdio"
         },
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.2.0/openreadout-mcp-aarch64-unknown-linux-musl.mcpb",
+          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.3.0/openreadout-mcp-aarch64-unknown-linux-musl.mcpb",
           "transport": "stdio"
         },
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.2.0/openreadout-mcp-x86_64-apple-darwin.mcpb",
+          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.3.0/openreadout-mcp-x86_64-apple-darwin.mcpb",
           "transport": "stdio"
         },
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.2.0/openreadout-mcp-x86_64-pc-windows-msvc.mcpb",
+          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.3.0/openreadout-mcp-x86_64-pc-windows-msvc.mcpb",
           "transport": "stdio"
         },
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.2.0/openreadout-mcp-x86_64-unknown-linux-musl.mcpb",
+          "identifier": "https://github.com/openreadout/openreadout/releases/download/v0.3.0/openreadout-mcp-x86_64-unknown-linux-musl.mcpb",
           "transport": "stdio"
         }
       ],
-      "installCommand": "npx openreadout@0.2.0 mcp",
+      "installCommand": "npx openreadout@0.3.0 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-09T04:15:31.555682Z",
-      "updatedAt": "2026-10-09T04:15:31.555682Z",
+      "publishedAt": "2026-10-13T07:54:26.993116Z",
+      "updatedAt": "2026-10-13T07:54:26.993116Z",
       "websiteUrl": "https://openreadout.github.io/openreadout/",
       "repository": {
         "url": "https://github.com/openreadout/openreadout",
@@ -129177,6 +129428,35 @@
       "updatedAt": "2026-05-23T19:38:36.046851Z",
       "repository": {
         "url": "https://github.com/Osyanne/osu-mcp",
+        "source": "github"
+      }
+    },
+    {
+      "slug": "io-github-ottermind-sqlx",
+      "name": "io.github.OtterMind/sqlx",
+      "title": "SQLX",
+      "description": "Database CLI for agents: 31 engines, encrypted credentials, complete structured results.",
+      "version": "0.1.20",
+      "url": "https://github.com/OtterMind/sqlx",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "oci",
+          "identifier": "ghcr.io/ottermind/sqlx:0.1.20",
+          "transport": "stdio"
+        }
+      ],
+      "installCommand": "docker run -i --rm ghcr.io/ottermind/sqlx:0.1.20",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T06:59:01.463733Z",
+      "updatedAt": "2026-10-13T06:59:01.463733Z",
+      "repository": {
+        "url": "https://github.com/OtterMind/sqlx",
         "source": "github"
       }
     },
@@ -133380,7 +133660,7 @@
       "name": "io.github.PhilipAD/health-export-mcp",
       "title": "MetricBridge Apple Health",
       "description": "Query 190 Apple Health metrics from any MCP agent: zero-dependency, read-only, local-first.",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "url": "https://www.healthexport.dev/mcp/",
       "remotes": [],
       "packages": [
@@ -133388,25 +133668,25 @@
           "registryType": "npm",
           "identifier": "health-export-mcp",
           "transport": "stdio",
-          "version": "1.6.1",
+          "version": "1.6.2",
           "registryBaseUrl": "https://registry.npmjs.org"
         },
         {
           "registryType": "mcpb",
-          "identifier": "https://github.com/PhilipAD/health-export-mcp/releases/download/v1.6.1/health-export.mcpb",
+          "identifier": "https://github.com/PhilipAD/health-export-mcp/releases/download/v1.6.2/health-export.mcpb",
           "transport": "stdio",
-          "version": "1.6.1"
+          "version": "1.6.2"
         }
       ],
-      "installCommand": "npx -y health-export-mcp@1.6.1",
+      "installCommand": "npx -y health-export-mcp@1.6.2",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-11T00:44:55.232588Z",
-      "updatedAt": "2026-10-11T00:44:55.232588Z",
+      "publishedAt": "2026-10-13T08:47:02.736837Z",
+      "updatedAt": "2026-10-13T08:47:02.736837Z",
       "websiteUrl": "https://www.healthexport.dev/mcp/",
       "repository": {
         "url": "https://github.com/PhilipAD/health-export-mcp",
@@ -135467,7 +135747,7 @@
       "name": "io.github.priors-agents/priors",
       "title": "Priors",
       "description": "Pay x402 APIs in USDG on Robinhood Chain, borrow and repay a Priors credit line, check records.",
-      "version": "0.9.0",
+      "version": "0.9.1",
       "url": "https://priors.trade",
       "remotes": [],
       "packages": [
@@ -135475,7 +135755,7 @@
           "registryType": "npm",
           "identifier": "@priors/mcp",
           "transport": "stdio",
-          "version": "0.9.0",
+          "version": "0.9.1",
           "environmentVariables": [
             {
               "name": "PRIORS_KEY",
@@ -135516,15 +135796,15 @@
           ]
         }
       ],
-      "installCommand": "PRIORS_KEY=<value> PRIORS_KEY_FILE=<value> PRIORS_AGENT_ID=<value> PRIORS_MAX_PRICE_USD=<value> PRIORS_MAX_SPEND_USD=<value> PRIORS_MAX_BORROW_USD=<value> PRIORS_MAX_SPEND_DAY_USD=<value> PRIORS_MAX_BORROW_DAY_USD=<value> PRIORS_PAY_HOSTS=<value> npx -y @priors/mcp@0.9.0",
+      "installCommand": "PRIORS_KEY=<value> PRIORS_KEY_FILE=<value> PRIORS_AGENT_ID=<value> PRIORS_MAX_PRICE_USD=<value> PRIORS_MAX_SPEND_USD=<value> PRIORS_MAX_BORROW_USD=<value> PRIORS_MAX_SPEND_DAY_USD=<value> PRIORS_MAX_BORROW_DAY_USD=<value> PRIORS_PAY_HOSTS=<value> npx -y @priors/mcp@0.9.1",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T18:57:42.751409Z",
-      "updatedAt": "2026-10-12T18:57:42.751409Z",
+      "publishedAt": "2026-10-13T08:41:59.832126Z",
+      "updatedAt": "2026-10-13T08:41:59.832126Z",
       "websiteUrl": "https://priors.trade",
       "repository": {
         "url": "https://github.com/priors-agents/priors",
@@ -138010,6 +138290,51 @@
       }
     },
     {
+      "slug": "io-github-quantumnovice-vlc-mcp",
+      "name": "io.github.QuantumNovice/vlc-mcp",
+      "title": "VLC Media Player",
+      "description": "Control VLC Media Player through MCP tools.",
+      "version": "0.1.1",
+      "url": "https://github.com/QuantumNovice/vlc-mcp",
+      "remotes": [],
+      "packages": [
+        {
+          "registryType": "npm",
+          "identifier": "vlc-mcp-server",
+          "transport": "stdio",
+          "version": "0.1.1",
+          "environmentVariables": [
+            {
+              "name": "VLC_BASE_URL",
+              "description": "Base URL of VLC's HTTP interface."
+            },
+            {
+              "name": "VLC_HTTP_PASSWORD",
+              "description": "Password configured for VLC's HTTP interface."
+            },
+            {
+              "name": "VLC_HTTP_TIMEOUT_MS",
+              "description": "HTTP request timeout in milliseconds."
+            }
+          ]
+        }
+      ],
+      "installCommand": "VLC_BASE_URL=<value> VLC_HTTP_PASSWORD=<value> VLC_HTTP_TIMEOUT_MS=<value> npx -y vlc-mcp-server@0.1.1",
+      "installKind": "package",
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "media"
+      ],
+      "status": "active",
+      "publishedAt": "2026-10-13T06:37:41.65453Z",
+      "updatedAt": "2026-10-13T06:37:41.65453Z",
+      "repository": {
+        "url": "https://github.com/QuantumNovice/vlc-mcp",
+        "source": "github"
+      }
+    },
+    {
       "slug": "io-github-questdb-mcp-server-questdb",
       "name": "io.github.questdb/mcp-server-questdb",
       "title": "QuestDB Web Console MCP Server",
@@ -140432,7 +140757,7 @@
       "name": "io.github.RedHatInsights/insights-mcp",
       "title": "Red Hat Lightspeed MCP",
       "description": "Model Context Protocol server for Red Hat Lightspeed - advisor, image builder, inventory, and more",
-      "version": "1.0.77+68dc71d2",
+      "version": "1.0.79+1fef0929",
       "url": "https://github.com/RedHatInsights/insights-mcp",
       "remotes": [],
       "packages": [
@@ -140462,8 +140787,8 @@
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-08T13:10:01.540438Z",
-      "updatedAt": "2026-10-08T13:10:01.540438Z",
+      "publishedAt": "2026-10-13T08:52:41.936694Z",
+      "updatedAt": "2026-10-13T08:52:41.936694Z",
       "repository": {
         "url": "https://github.com/RedHatInsights/insights-mcp",
         "source": "github"
@@ -140828,7 +141153,7 @@
       "name": "io.github.Regsorm/code-index",
       "title": "code-index",
       "description": "Rust code index MCP server, native 1C:Enterprise (BSL) support. 32 tools, AST for 14 languages.",
-      "version": "1.10.0",
+      "version": "1.11.0",
       "url": "https://github.com/Regsorm/code-index-mcp",
       "remotes": [],
       "packages": [
@@ -140836,7 +141161,7 @@
           "registryType": "npm",
           "identifier": "@regsorm/code-index-mcp",
           "transport": "stdio",
-          "version": "1.10.0",
+          "version": "1.11.0",
           "runtimeHint": "npx",
           "packageArguments": [
             "serve"
@@ -140844,7 +141169,7 @@
           "registryBaseUrl": "https://registry.npmjs.org"
         }
       ],
-      "installCommand": "npx @regsorm/code-index-mcp@1.10.0 serve",
+      "installCommand": "npx @regsorm/code-index-mcp@1.11.0 serve",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
@@ -140852,8 +141177,8 @@
         "search"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T04:13:33.713434Z",
-      "updatedAt": "2026-10-13T04:13:33.713434Z",
+      "publishedAt": "2026-10-13T06:45:31.665342Z",
+      "updatedAt": "2026-10-13T06:45:31.665342Z",
       "repository": {
         "url": "https://github.com/Regsorm/code-index-mcp",
         "source": "github"
@@ -143448,7 +143773,7 @@
       "name": "io.github.rkocosmergon/cosmergon",
       "title": "Cosmergon",
       "description": "Living economy for AI agents — Conway physics, energy currency, marketplace, reputation.",
-      "version": "0.27.7",
+      "version": "0.27.8",
       "url": "https://cosmergon.com",
       "remotes": [],
       "packages": [
@@ -143456,18 +143781,18 @@
           "registryType": "pypi",
           "identifier": "cosmergon-agent",
           "transport": "stdio",
-          "version": "0.27.7"
+          "version": "0.27.8"
         }
       ],
-      "installCommand": "uvx cosmergon-agent@0.27.7",
+      "installCommand": "uvx cosmergon-agent@0.27.8",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T06:06:55.424986Z",
-      "updatedAt": "2026-10-13T06:06:55.424986Z",
+      "publishedAt": "2026-10-13T06:23:04.062746Z",
+      "updatedAt": "2026-10-13T06:23:04.062746Z",
       "websiteUrl": "https://cosmergon.com",
       "repository": {
         "url": "https://github.com/rkocosmergon/cosmergon-agent",
@@ -147777,8 +148102,8 @@
       "slug": "io-github-runhooks-runhooks-mcp",
       "name": "io.github.runhooks/runhooks-mcp",
       "title": "Runhooks",
-      "description": "Schedule and manage cron jobs and webhooks on Runhooks from your AI agent.",
-      "version": "0.1.5",
+      "description": "Schedule and manage recurring and one-off HTTP jobs on Runhooks from your AI agent.",
+      "version": "0.1.6",
       "url": "https://runhooks.app/docs/mcp",
       "remotes": [],
       "packages": [
@@ -147786,7 +148111,7 @@
           "registryType": "npm",
           "identifier": "@runhooks/mcp",
           "transport": "stdio",
-          "version": "0.1.5",
+          "version": "0.1.6",
           "environmentVariables": [
             {
               "name": "RUNHOOKS_API_KEY",
@@ -147800,15 +148125,15 @@
           "registryBaseUrl": "https://registry.npmjs.org"
         }
       ],
-      "installCommand": "RUNHOOKS_API_KEY=<value> RUNHOOKS_API_URL=<value> npx -y @runhooks/mcp@0.1.5",
+      "installCommand": "RUNHOOKS_API_KEY=<value> RUNHOOKS_API_URL=<value> npx -y @runhooks/mcp@0.1.6",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T10:39:05.58359Z",
-      "updatedAt": "2026-10-12T10:39:05.58359Z",
+      "publishedAt": "2026-10-13T07:04:46.461596Z",
+      "updatedAt": "2026-10-13T07:04:46.461596Z",
       "websiteUrl": "https://runhooks.app/docs/mcp",
       "repository": {
         "url": "https://github.com/runhooks/runhooks-mcp",
@@ -148478,7 +148803,7 @@
       "name": "io.github.saagpatel/mcp-audit",
       "title": "mcp-audit",
       "description": "Scan, enumerate, and risk-score every MCP server configured on your machine.",
-      "version": "2.11.0",
+      "version": "2.12.0",
       "url": "https://github.com/saagpatel/MCPAudit",
       "remotes": [],
       "packages": [
@@ -148486,7 +148811,7 @@
           "registryType": "pypi",
           "identifier": "mcp-audits",
           "transport": "stdio",
-          "version": "2.11.0",
+          "version": "2.12.0",
           "runtimeHint": "uvx",
           "packageArguments": [
             "serve"
@@ -148494,15 +148819,15 @@
           "registryBaseUrl": "https://pypi.org"
         }
       ],
-      "installCommand": "uvx mcp-audits@2.11.0 serve",
+      "installCommand": "uvx mcp-audits@2.12.0 serve",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T16:44:34.010528Z",
-      "updatedAt": "2026-10-12T16:44:34.010528Z",
+      "publishedAt": "2026-10-13T06:57:30.573771Z",
+      "updatedAt": "2026-10-13T06:57:30.573771Z",
       "repository": {
         "url": "https://github.com/saagpatel/MCPAudit",
         "source": "github"
@@ -152801,25 +153126,25 @@
       "name": "io.github.sebastienrousseau/corralctl",
       "title": "corralctl",
       "description": "Search code and symbols across every clone in your corralctl workspace. Zero network calls.",
-      "version": "0.0.51",
+      "version": "0.0.52",
       "url": "https://doc.corrallib.com",
       "remotes": [],
       "packages": [
         {
           "registryType": "oci",
-          "identifier": "ghcr.io/sebastienrousseau/corralctl:0.0.51",
+          "identifier": "ghcr.io/sebastienrousseau/corralctl:0.0.52",
           "transport": "stdio"
         }
       ],
-      "installCommand": "docker run -i --rm ghcr.io/sebastienrousseau/corralctl:0.0.51",
+      "installCommand": "docker run -i --rm ghcr.io/sebastienrousseau/corralctl:0.0.52",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T10:43:58.593065Z",
-      "updatedAt": "2026-10-12T10:43:58.593065Z",
+      "publishedAt": "2026-10-13T06:29:39.502925Z",
+      "updatedAt": "2026-10-13T06:29:39.502925Z",
       "websiteUrl": "https://doc.corrallib.com",
       "repository": {
         "url": "https://github.com/sebastienrousseau/corralctl",
@@ -160588,7 +160913,7 @@
       "name": "io.github.Softeria/ms-365-mcp-server",
       "title": "Microsoft 365 MCP Server",
       "description": "Interact with Microsoft 365 and Office services through the Microsoft Graph API.",
-      "version": "0.162.0",
+      "version": "0.164.0",
       "url": "https://github.com/Softeria/ms-365-mcp-server",
       "remotes": [],
       "packages": [
@@ -160596,18 +160921,18 @@
           "registryType": "npm",
           "identifier": "@softeria/ms-365-mcp-server",
           "transport": "stdio",
-          "version": "0.162.0"
+          "version": "0.164.0"
         }
       ],
-      "installCommand": "npx -y @softeria/ms-365-mcp-server@0.162.0",
+      "installCommand": "npx -y @softeria/ms-365-mcp-server@0.164.0",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-11T22:03:38.529271Z",
-      "updatedAt": "2026-10-11T22:03:38.529271Z",
+      "publishedAt": "2026-10-13T07:58:31.845883Z",
+      "updatedAt": "2026-10-13T07:58:31.845883Z",
       "repository": {
         "url": "https://github.com/Softeria/ms-365-mcp-server",
         "source": "github"
@@ -160958,13 +161283,13 @@
       "name": "io.github.soma-intelligence/open-health-sync",
       "title": "Open Health Sync",
       "description": "Read-only access to self-hosted health data: samples, sleep, workouts, nutrition, daily summaries.",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "url": "https://github.com/soma-intelligence/open-health-sync",
       "remotes": [],
       "packages": [
         {
           "registryType": "oci",
-          "identifier": "ghcr.io/soma-intelligence/open-health-sync:0.0.2",
+          "identifier": "ghcr.io/soma-intelligence/open-health-sync:0.1.0",
           "transport": "stdio",
           "environmentVariables": [
             {
@@ -160983,15 +161308,15 @@
           ]
         }
       ],
-      "installCommand": "OHS_MCP_URL=<value> OHS_MCP_KEY=<value> docker run -i --rm ghcr.io/soma-intelligence/open-health-sync:0.0.2 mcp",
+      "installCommand": "OHS_MCP_URL=<value> OHS_MCP_KEY=<value> docker run -i --rm ghcr.io/soma-intelligence/open-health-sync:0.1.0 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T04:23:00.18872Z",
-      "updatedAt": "2026-10-13T04:23:00.18872Z",
+      "publishedAt": "2026-10-13T06:24:57.945949Z",
+      "updatedAt": "2026-10-13T06:24:57.945949Z",
       "repository": {
         "url": "https://github.com/soma-intelligence/open-health-sync",
         "source": "github"
@@ -169338,7 +169663,7 @@
       "name": "io.github.The-40-Thieves/obsidian-tc",
       "title": "Obsidian Turbocharged",
       "description": "Governed Obsidian vault access: hybrid retrieval, Markdown-native memory, HITL confirmations.",
-      "version": "1.33.0",
+      "version": "1.33.1",
       "url": "https://github.com/The-40-Thieves/obsidian-tc#readme",
       "remotes": [],
       "packages": [
@@ -169346,7 +169671,7 @@
           "registryType": "npm",
           "identifier": "obsidian-tc",
           "transport": "stdio",
-          "version": "1.33.0",
+          "version": "1.33.1",
           "environmentVariables": [
             {
               "name": "OBSIDIAN_TC_CONFIG",
@@ -169361,7 +169686,7 @@
           "registryBaseUrl": "https://registry.npmjs.org"
         }
       ],
-      "installCommand": "OBSIDIAN_TC_CONFIG=<value> OBSIDIAN_TC_DEFAULT_VAULT=<value> npx -y obsidian-tc@1.33.0",
+      "installCommand": "OBSIDIAN_TC_CONFIG=<value> OBSIDIAN_TC_DEFAULT_VAULT=<value> npx -y obsidian-tc@1.33.1",
       "installKind": "package",
       "category": "docs-knowledge",
       "categories": [
@@ -169369,8 +169694,8 @@
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-13T03:38:42.855695Z",
-      "updatedAt": "2026-10-13T03:38:42.855695Z",
+      "publishedAt": "2026-10-13T06:58:55.838093Z",
+      "updatedAt": "2026-10-13T06:58:55.838093Z",
       "websiteUrl": "https://github.com/The-40-Thieves/obsidian-tc#readme",
       "repository": {
         "url": "https://github.com/The-40-Thieves/obsidian-tc",
@@ -173062,33 +173387,34 @@
       }
     },
     {
-      "slug": "io-github-tresor4k-statetakehome-mcp",
-      "name": "io.github.tresor4k/statetakehome-mcp",
-      "title": "StateTakeHome",
-      "description": "US take-home pay calculator by state: federal and state tax, FICA, deductions.",
-      "version": "0.1.1",
-      "url": "https://statetakehome.com",
+      "slug": "io-github-tresor4k-leavesheet-mcp",
+      "name": "io.github.tresor4k/leavesheet-mcp",
+      "title": "LeaveSheet: WH-347 payroll and PTO accrual",
+      "description": "WH-347 certified payroll columns 5-9, fringe 6B reconciliation and PTO accrual balances.",
+      "version": "0.1.0",
+      "url": "https://tabletemplates.com/certified-payroll-software/",
       "remotes": [],
       "packages": [
         {
           "registryType": "npm",
-          "identifier": "statetakehome-mcp",
+          "identifier": "leavesheet-mcp",
           "transport": "stdio",
-          "version": "0.1.1"
+          "version": "0.1.0",
+          "registryBaseUrl": "https://registry.npmjs.org"
         }
       ],
-      "installCommand": "npx -y statetakehome-mcp@0.1.1",
+      "installCommand": "npx -y leavesheet-mcp@0.1.0",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-07-13T13:09:07.665581Z",
-      "updatedAt": "2026-07-13T13:09:07.665581Z",
-      "websiteUrl": "https://statetakehome.com",
+      "publishedAt": "2026-10-13T08:34:03.47199Z",
+      "updatedAt": "2026-10-13T08:34:03.47199Z",
+      "websiteUrl": "https://tabletemplates.com/certified-payroll-software/",
       "repository": {
-        "url": "https://github.com/tresor4k/statetakehome-mcp",
+        "url": "https://github.com/tresor4k/leavesheet-mcp",
         "source": "github"
       }
     },
@@ -177796,7 +178122,7 @@
       "name": "io.github.vibeview/vibeview",
       "title": "VibeView",
       "description": "Drive cloud iOS, Android, Apple TV, Android TV and Roku devices to verify app changes.",
-      "version": "0.40.0",
+      "version": "0.41.0",
       "url": "https://vibeview.io/docs/agent-control",
       "remotes": [],
       "packages": [
@@ -177804,7 +178130,7 @@
           "registryType": "npm",
           "identifier": "vibeview",
           "transport": "stdio",
-          "version": "0.40.0",
+          "version": "0.41.0",
           "runtimeHint": "npx",
           "environmentVariables": [
             {
@@ -177817,15 +178143,15 @@
           ]
         }
       ],
-      "installCommand": "VIBEVIEW_API_TOKEN=<value> npx vibeview@0.40.0 mcp",
+      "installCommand": "VIBEVIEW_API_TOKEN=<value> npx vibeview@0.41.0 mcp",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T20:58:23.388584Z",
-      "updatedAt": "2026-10-12T20:58:23.388584Z",
+      "publishedAt": "2026-10-13T08:04:43.407925Z",
+      "updatedAt": "2026-10-13T08:04:43.407925Z",
       "websiteUrl": "https://vibeview.io/docs/agent-control",
       "repository": {
         "url": "https://github.com/vibeview/skills",
@@ -183400,7 +183726,7 @@
       "name": "io.github.wttech/acm-mcp-server",
       "title": "AEM Content Manager (ACM)",
       "description": "Validate and run Groovy scripts on Adobe Experience Manager through AEM Content Manager (ACM).",
-      "version": "0.1.2",
+      "version": "0.1.4",
       "url": "https://github.com/wttech/acm/tree/main/tools/mcp-server",
       "remotes": [],
       "packages": [
@@ -183408,7 +183734,7 @@
           "registryType": "npm",
           "identifier": "@wppes/acm-mcp-server",
           "transport": "stdio",
-          "version": "0.1.2",
+          "version": "0.1.4",
           "environmentVariables": [
             {
               "name": "ACM_CONFIG_FILE",
@@ -183422,15 +183748,15 @@
           ]
         }
       ],
-      "installCommand": "ACM_CONFIG_FILE=<value> ACM_CONFIG=<value> npx -y @wppes/acm-mcp-server@0.1.2",
+      "installCommand": "ACM_CONFIG_FILE=<value> ACM_CONFIG=<value> npx -y @wppes/acm-mcp-server@0.1.4",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-12T13:11:00.210544Z",
-      "updatedAt": "2026-10-12T13:11:00.210544Z",
+      "publishedAt": "2026-10-13T08:27:24.981908Z",
+      "updatedAt": "2026-10-13T08:27:24.981908Z",
       "websiteUrl": "https://github.com/wttech/acm/tree/main/tools/mcp-server",
       "repository": {
         "url": "https://github.com/wttech/acm",
@@ -184192,7 +184518,7 @@
       "name": "io.github.XBP-Europe/sagemath-mcp",
       "title": "SageMath",
       "description": "Stateful SageMath MCP server with 40 tools and a sandboxed Sage session per client.",
-      "version": "0.9.4",
+      "version": "0.9.5",
       "url": "https://github.com/XBP-Europe/sagemath-mcp",
       "remotes": [],
       "packages": [
@@ -184200,18 +184526,30 @@
           "registryType": "pypi",
           "identifier": "sagemath-mcp",
           "transport": "stdio",
-          "version": "0.9.4"
+          "version": "0.9.5",
+          "runtimeHint": "uvx",
+          "runtimeArguments": [
+            "sagemath-mcp[passagemath]==0.9.5"
+          ]
+        },
+        {
+          "registryType": "oci",
+          "identifier": "ghcr.io/xbp-europe/sagemath-mcp:0.9.5",
+          "transport": "stdio",
+          "packageArguments": [
+            "stdio"
+          ]
         }
       ],
-      "installCommand": "uvx sagemath-mcp@0.9.4",
+      "installCommand": "uvx sagemath-mcp@0.9.5 sagemath-mcp[passagemath]==0.9.5",
       "installKind": "package",
       "category": "dev-tools",
       "categories": [
         "dev-tools"
       ],
       "status": "active",
-      "publishedAt": "2026-10-10T10:28:29.78336Z",
-      "updatedAt": "2026-10-10T10:28:29.78336Z",
+      "publishedAt": "2026-10-13T07:15:23.206624Z",
+      "updatedAt": "2026-10-13T07:15:23.206624Z",
       "websiteUrl": "https://github.com/XBP-Europe/sagemath-mcp",
       "repository": {
         "url": "https://github.com/XBP-Europe/sagemath-mcp",
@@ -194171,8 +194509,8 @@
   ],
   "meta": {
     "fromCache": false,
-    "count": 4612,
+    "count": 4620,
     "complete": true,
-    "otherRatio": 0.0757
+    "otherRatio": 0.0755
   }
 }

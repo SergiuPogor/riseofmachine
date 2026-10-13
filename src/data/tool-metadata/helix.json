@@ -9,11 +9,11 @@
   "related": [
     "builduo",
     "text-remover",
+    "portia-ai",
     "smythos",
     "zen-agents",
     "buildship",
     "amazon-sagemaker",
-    "elva",
-    "cactal"
+    "elva"
   ]
 }

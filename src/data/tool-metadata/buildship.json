@@ -9,11 +9,11 @@
   "related": [
     "builduo",
     "helix",
+    "portia-ai",
     "smythos",
     "zen-agents",
     "amazon-sagemaker",
     "elva",
-    "cactal",
-    "chartcraft"
+    "cactal"
   ]
 }

@@ -3,17 +3,17 @@
   "description": "Aiphone is the global leader in intercom systems, offering IP intercoms, video intercoms, and audio intercoms for secure communication and access control.",
   "category": "audio",
   "url": "https://aiphone.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "phone-app",
   "related": [
     "remove-audio",
     "audjust-ai",
-    "audio-transcriber-ai",
-    "voqusa",
-    "ringfoods",
     "cleanaudio-ai",
-    "sonicker",
-    "mp3-to-text"
+    "mp3-to-text",
+    "goose-pod",
+    "monologue",
+    "whisper",
+    "openwispr"
   ]
 }

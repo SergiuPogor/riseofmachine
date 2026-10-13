@@ -28,7 +28,7 @@ const totalSkills = (skillsData as SkillsData).skills.length;
 // for this skill on load (same model as /mcp/servers/{slug}). No standalone page.
 const category = skill.categories[0] ?? '';
 const categoryTitle = index[category]?.title ?? category;
-const canonicalUrl = `https://riseofmachine.com/skills/${skill.source}/${skill.slug}`;
+const canonicalUrl = `https://riseofmachine.com/skills/${skill.source}/${skill.slug}/`;
 
 // Meta descriptions cap ~160 chars; the panel still renders the full text.
 const metaDescription =

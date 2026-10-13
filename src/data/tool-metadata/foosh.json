@@ -3,17 +3,17 @@
   "description": "Make your brand and product showcase limitless with stunning AI photoshoots.",
   "category": "photos",
   "url": "https://www.foosh.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2024-12-14",
   "slug": "foosh",
   "related": [
-    "freemaker-ai",
     "enhancedating",
-    "anime-generator",
-    "interior-design-planner",
-    "realistic-image-generator",
     "image-to-image",
     "imagine2",
-    "fromimage-ai"
+    "fromimage-ai",
+    "ai-image-combiner",
+    "animegenai",
+    "blur-background",
+    "image-changer-app"
   ]
 }

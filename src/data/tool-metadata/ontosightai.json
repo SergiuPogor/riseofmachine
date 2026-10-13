@@ -3,7 +3,7 @@
   "description": "Discover Ontosight.ai, your AI-powered research assistant designed to simplify data analysis and unlock smarter insights. Explore tools for researchers, students, and professionals across industries.",
   "category": "research",
   "url": "https://ontosight.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-01",
   "slug": "ontosightai",
   "related": [
@@ -11,9 +11,9 @@
     "research",
     "osum",
     "papers",
-    "merlin",
     "gaabstract",
     "resea-ai",
-    "capgo-ai"
+    "capgo-ai",
+    "consensus"
   ]
 }

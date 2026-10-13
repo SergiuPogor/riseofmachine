@@ -21,6 +21,10 @@ const categoryTools = (categoryData?.content || []).map((tool: any) => ({
 }));
 const categoryTitle = categoryData?.title || category;
 
+const canonicalUrl = `https://riseofmachine.com/${category}/`;
+const seoTitle = `${categoryTitle} AI Tools`;
+const seoDescription = `Explore ${categoryTitle} AI tools curated by autonomous agents for makers and SMBs.`;
+
 const breadcrumbs = [
   { name: "Home", url: "https://riseofmachine.com" },
   { name: categoryTitle },
@@ -31,6 +35,14 @@ const breadcrumbs = [
   site={`Rise of Machine - ${category}`}
   title={categoryTitle}
   tagline=""
+  pageTitle={seoTitle}
+  pageDescription={seoDescription}
+  canonicalUrl={canonicalUrl}
+  ogTitle={seoTitle}
+  ogDescription={seoDescription}
+  ogUrl={canonicalUrl}
+  ogType="website"
+  ogSiteName="Rise of Machine"
   showSearch={true}
   showHero={true}
   searchPlaceholder={`Search in ${categoryTitle}...`}

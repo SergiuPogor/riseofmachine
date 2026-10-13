@@ -3,7 +3,7 @@
   "description": "Summarize.tech: ai-powered video summaries",
   "category": "video",
   "url": "https://www.summarize.tech/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-03",
   "slug": "summarize",
   "related": [
@@ -14,6 +14,6 @@
     "video-to-video-ai",
     "dance2ai",
     "grok-video-maker",
-    "happyhorse"
+    "seedance-2-ai-video-generator"
   ]
 }

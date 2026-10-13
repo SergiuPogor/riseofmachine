@@ -3,17 +3,17 @@
   "description": "A router for LLMs and other AI models",
   "category": "llm",
   "url": "https://openrouter.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2023-12-29",
   "slug": "openrouter",
   "related": [
     "coderplan",
-    "llamaindex",
     "artificialwatch",
     "gptgeminigrokai",
     "ferryapi",
-    "muse-spark-ai",
-    "deepseekv4dev",
-    "chatgpt"
+    "chatgpt",
+    "deepseek",
+    "potpie-aipotpie",
+    "agents-by-athena"
   ]
 }

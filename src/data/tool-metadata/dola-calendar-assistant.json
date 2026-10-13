@@ -3,17 +3,17 @@
   "description": "Smartly plan & sync life on messaging apps.",
   "category": "productivity",
   "url": "https://dola.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "dola-calendar-assistant",
   "related": [
-    "hero",
     "floworks",
-    "sider",
     "intellibar",
     "otter",
     "reclaim-ai",
     "walles",
-    "mavexai"
+    "mavexai",
+    "krisp",
+    "upscaler"
   ]
 }

@@ -7,13 +7,13 @@
   "date-added": "2025-06-29",
   "slug": "vidduo-agent",
   "related": [
+    "step-video-t2v",
+    "funy-video-image",
     "lyric-video-studio",
     "lehar-ai-video-generator",
     "video-to-prompt",
     "seedance",
     "viralrot",
-    "hoox",
-    "supermaker",
-    "image-to-video"
+    "hoox"
   ]
 }

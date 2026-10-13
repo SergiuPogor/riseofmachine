@@ -21,7 +21,7 @@ export default function DetailVisitButton() {
                 className="detail-action detail-action--primary t-learn"
                 id="detail-visit"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
                 onMouseEnter={() => setHover(true)}
                 onMouseLeave={() => setHover(false)}
             >

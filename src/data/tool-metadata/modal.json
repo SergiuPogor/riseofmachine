@@ -10,10 +10,10 @@
     "replicate",
     "run-llm",
     "artificialwatch",
+    "sarvam",
     "gptgeminigrokai",
     "coderplan",
     "ferryapi",
-    "chatgpt",
-    "deepseek"
+    "chatgpt"
   ]
 }

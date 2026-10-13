@@ -3,17 +3,17 @@
   "description": "Create professional videos using just a still image with text or audio powered by AI.",
   "category": "video",
   "url": "https://studio.d-id.com?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-14",
   "slug": "d-id",
   "related": [
-    "soda-video-ai",
     "haiper-ai-video-generator",
     "neural-frames",
-    "morph-studio",
-    "textideo",
     "veo-video",
-    "vivagoaivideo",
-    "moonvalley"
+    "ltx2",
+    "elaiio",
+    "vidu-studio",
+    "viralrot",
+    "step-video-t2v"
   ]
 }

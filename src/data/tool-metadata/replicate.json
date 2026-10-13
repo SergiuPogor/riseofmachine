@@ -8,12 +8,12 @@
   "slug": "replicate",
   "related": [
     "modal",
+    "potpie-aipotpie",
     "run-llm",
     "artificialwatch",
+    "sarvam",
     "gptgeminigrokai",
     "coderplan",
-    "ferryapi",
-    "chatgpt",
-    "deepseek"
+    "ferryapi"
   ]
 }

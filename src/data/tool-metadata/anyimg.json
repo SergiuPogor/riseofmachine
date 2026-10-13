@@ -8,12 +8,12 @@
   "slug": "anyimg",
   "related": [
     "z-image",
+    "prisma",
+    "line-drawing-converter",
     "mediaai-art",
     "image-to-prompt",
     "fastimage",
     "banana-ai-1",
-    "picrafts",
-    "nightcafe-creator",
-    "furryai"
+    "picrafts"
   ]
 }

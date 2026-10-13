@@ -3,7 +3,7 @@
   "description": "Snon AI Lyric Generator - Suno AI Prompt Generator",
   "category": "music",
   "url": "https://www.snonlyric.com/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-03",
   "slug": "snon-lyric",
   "related": [
@@ -11,9 +11,9 @@
     "tempolor",
     "music-generator",
     "song-generator",
-    "songburst",
     "lyrics-to-song",
     "murekaai",
-    "raplyrics"
+    "wondera",
+    "tomusic"
   ]
 }

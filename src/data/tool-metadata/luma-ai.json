@@ -3,17 +3,17 @@
   "description": "Create, animate & innovate with Luma’s AI. Use text, images, or video to generate realistic motion content with Ray3 and Dream Machine for next-gen storytelling.",
   "category": "design",
   "url": "https://lumalabs.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "luma-ai",
   "related": [
     "tripo",
-    "v0",
     "banani",
-    "recraft-v3-svg",
-    "csm",
     "textomap",
-    "kaedim",
-    "napkin-ai"
+    "napkin-ai",
+    "flux2ai",
+    "imgto3d",
+    "floordrafter",
+    "morphlogo"
   ]
 }

@@ -3,17 +3,17 @@
   "description": "BulkGen AI is a specialized bulk AI image generator designed for creators and businesses who need more than just one-off images.",
   "category": "photos",
   "url": "https://bulkgen.co?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2026-01-22",
   "slug": "bulkgen-ai",
   "related": [
-    "bulk-image-generator",
-    "imggen-ai",
     "image-to-image",
     "graficai",
     "fotol-image-generator",
-    "image-optimizer",
-    "ezmaker-ai",
-    "ez-img-editor"
+    "promptwall",
+    "magnific",
+    "imagine2",
+    "ai-image-combiner",
+    "blur-background"
   ]
 }

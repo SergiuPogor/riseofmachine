@@ -8,12 +8,12 @@
   "slug": "artificialwatch",
   "related": [
     "modal",
+    "sarvam",
     "replicate",
     "gptgeminigrokai",
     "coderplan",
     "ferryapi",
     "chatgpt",
-    "deepseek",
-    "agents-by-athena"
+    "deepseek"
   ]
 }

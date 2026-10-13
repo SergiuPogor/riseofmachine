@@ -3,17 +3,17 @@
   "description": "Every AI, one dashboard, anonymous access.",
   "category": "xtras",
   "url": "https://hoody.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "hoody",
   "related": [
-    "conference-sponsor",
     "profilespider",
     "palmscanner-ai",
-    "vedic-astrology-chart",
     "mee-manga-translator",
-    "astrocartography",
     "manga-translator",
-    "destiny-matrix"
+    "destiny-matrix",
+    "love-mbti",
+    "gmapsextrator",
+    "nectar-ai"
   ]
 }

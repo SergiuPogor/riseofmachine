@@ -3,7 +3,7 @@
   "description": "Task automation.",
   "category": "productivity",
   "url": "https://thatswave.com/login?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "wave",
   "related": [
@@ -11,9 +11,9 @@
     "skywork",
     "screenpipe",
     "orkas",
-    "bankingnewsai",
     "onetwo-resume",
     "converge-ai",
-    "remio"
+    "remio",
+    "bookletai"
   ]
 }

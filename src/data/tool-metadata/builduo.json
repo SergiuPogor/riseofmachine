@@ -10,10 +10,10 @@
     "elva",
     "poe-api",
     "helix",
+    "portia-ai",
     "smythos",
     "zen-agents",
     "buildship",
-    "amazon-sagemaker",
-    "cactal"
+    "amazon-sagemaker"
   ]
 }

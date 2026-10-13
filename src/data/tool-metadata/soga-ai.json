@@ -9,11 +9,11 @@
   "related": [
     "game-generator",
     "rolechar",
+    "pinpoint-answer",
     "saga",
     "chub",
     "meshy",
     "roleplayr",
-    "pinpoint-answer",
-    "combos-ai"
+    "qmai"
   ]
 }

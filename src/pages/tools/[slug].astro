@@ -46,7 +46,7 @@ const categoryTools = categoryData.default.map((t: any) => ({ ...t, category }))
 const faviconUrl = `/favicons/${slug}.png`;
 // Social scrapers require an absolute URL for og:image / twitter:image.
 const socialImageUrl = `https://riseofmachine.com/favicons/${slug}.png`;
-const canonicalUrl = `https://riseofmachine.com/tools/${tool.slug}`;
+const canonicalUrl = `https://riseofmachine.com/tools/${tool.slug}/`;
 
 let meta: any = {};
 try {
@@ -115,20 +115,37 @@ const breadcrumbs = [
       <section class="tool-fallback">
         <h2>{tool.title}</h2>
         <p>{seoDescription}</p>
-        <a href={tool.url} target="_blank" rel="noopener noreferrer">Visit {tool.title} ↗</a>
-        {relatedTools.length > 0 && (
-          <nav class="tool-alternatives" aria-label={`${tool.title} alternatives`}>
-            <h3>{tool.title} alternatives</h3>
-            <ul>
-              {relatedTools.map((r) => (
-                <li><a href={`/tools/${r.slug}`}>{r.title}</a></li>
-              ))}
-            </ul>
-          </nav>
-        )}
+        <a href={tool.url} target="_blank" rel="noopener noreferrer nofollow">Visit {tool.title} ↗</a>
       </section>
     </noscript>
+    {relatedTools.length > 0 && (
+      <nav class="tool-alternatives visually-hidden" aria-label={`${tool.title} alternatives`}>
+        <h2>{tool.title} alternatives</h2>
+        <ul>
+          {relatedTools.map((r) => (
+            <li><a href={`/tools/${r.slug}`}>{r.title}</a></li>
+          ))}
+        </ul>
+      </nav>
+    )}
     <ToolGrid tools={categoryTools} />
     <GridEnhancer />
   </main>
 </Layout>
+
+<style>
+  /* Keep related links in the always-rendered DOM for crawlers and screen
+     readers; the JS detail panel is the primary visual surface. */
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+</style>

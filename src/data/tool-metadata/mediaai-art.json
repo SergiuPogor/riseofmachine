@@ -7,13 +7,13 @@
   "date-added": "2025-06-19",
   "slug": "mediaai-art",
   "related": [
+    "prisma",
     "anyimg",
     "nightcafe-creator",
     "furryai",
     "imgnai",
     "meigen-ai",
     "lora",
-    "imagefx",
-    "mycoloringai"
+    "imagefx"
   ]
 }

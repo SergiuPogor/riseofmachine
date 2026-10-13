@@ -9,11 +9,11 @@
   "related": [
     "conduit",
     "chat-agents",
+    "normal",
     "salestarget",
     "naoma-ai",
     "ellie",
     "superai",
-    "receiptor",
-    "toffu"
+    "receiptor"
   ]
 }

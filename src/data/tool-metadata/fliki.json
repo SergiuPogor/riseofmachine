@@ -9,11 +9,11 @@
   "related": [
     "grok-video-generator",
     "libretto",
+    "ltx2",
+    "veo-3-by-kie",
     "viralrot",
     "image-to-video",
     "vivago",
-    "decohere",
-    "voe-ai",
-    "video-to-video-ai"
+    "decohere"
   ]
 }

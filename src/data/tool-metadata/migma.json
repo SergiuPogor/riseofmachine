@@ -3,17 +3,17 @@
   "description": "Create professional, on-brand emails instantly with AI. Design fast, send smart, measure everything. From idea to inbox in seconds. Backed by EWOR.",
   "category": "copywriting",
   "url": "https://migma.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "migma",
   "related": [
-    "jasper",
-    "successai",
-    "anyword",
     "imagineyourbook",
     "kdpbookio",
     "ryter-pro",
     "proofwrite-ai",
-    "manga-ai-translator"
+    "manga-ai-translator",
+    "transmonkey",
+    "justdone-ai",
+    "passivecraft"
   ]
 }

@@ -7,13 +7,13 @@
   "date-added": "2023-12-15",
   "slug": "helicone",
   "related": [
+    "giga-ml",
     "run-llm",
     "artificialwatch",
     "gptgeminigrokai",
     "coderplan",
     "ferryapi",
     "chatgpt",
-    "deepseek",
-    "agents-by-athena"
+    "deepseek"
   ]
 }

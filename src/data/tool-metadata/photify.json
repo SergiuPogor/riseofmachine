@@ -3,17 +3,17 @@
   "description": "🤩 Create diverse looks with a single uploaded photo\n    🔥 Explore hairstyles, genders, and skin tones effortlessly\n    😍 Try on outfits inspired by popular characters or fashion trends\n    🌴 Immerse yourself in different scenarios and locations",
   "category": "photos",
   "url": "https://photify.ai/?ref=riseofmachine.com",
-  "tag": "Not available",
+  "tag": "Freemium",
   "date-added": "2025-06-06",
   "slug": "photify",
   "related": [
-    "photo",
     "photoleap",
-    "cozaiphoto",
-    "headshot-photo",
     "hama",
-    "freemaker-ai",
     "add-person-to-photo",
-    "fast-image-ai-1"
+    "image-text-editor",
+    "picsart",
+    "clipdrop",
+    "photo-style",
+    "imggood"
   ]
 }
