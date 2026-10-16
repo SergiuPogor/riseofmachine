@@ -4698,6 +4698,14 @@
           "url": "https://www.wondera.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06",
           "slug": "wondera"
+        },
+        {
+          "title": "Words into Music",
+          "body": "Generates songs from text and lyrics.",
+          "tag": "Freemium",
+          "url": "https://wordsintomusic.com?ref=riseofmachine.com",
+          "date-added": "2026-10-16",
+          "slug": "words-into-music"
         }
       ]
     },
